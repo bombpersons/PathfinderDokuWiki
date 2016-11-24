@@ -1,6 +1,6 @@
 ==== Header 1 ====
 
-A test change!
+Another change hopefully with the correct timezone in the commit message now =)
 
 === Header 2 ===
 
