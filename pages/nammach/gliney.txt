@@ -2,3 +2,6 @@
 Gliney is a major port city on the southern coast of [[Nammach]]. 
 
 Population: 20,000
+
+===== Roads =====
+ * Road to Narfaif - The [[Mannach:Gliney Narfaif Bridge|Gliney Narfaif Bridge]]
