@@ -6,6 +6,7 @@ The bridge connecting [[Mannach:Gliney]] to [[Mannach:Narfaif]]
 1-40 chance per hour
 ^d%        ^Encounter                         ^
 |0-40      |2d4 Fast Grippli Zombies          |
+
 |40-70     |1d6 + 4 Teiji Soldiers            |
 |70-80     |1d3 Chimpanzees                   |
 |80-90     |1d2 + 2 Sword Chimpanzees         |
