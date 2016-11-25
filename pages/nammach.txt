@@ -2,3 +2,43 @@
 {{ ::nammach.jpeg?300|}}
 
 **Nammach** is an island in the northern tropical region of the [[Darori Arc]]. It has a surface area of 233,000 km<sup>2</sup> and is 194 km wide and 120 km tall.
+
+===== Geography =====
+The centre of Nammach consists of a large dense rain forest, with trees 100-1000ft tall. At surface level beneath this jungle lies what is often referred to by locals as the [[Nammach:Underjungle|underjungle]]. 
+
+To the east of the island the jungle thins out into grassy plains, eventually reaching a set of small rocky islands.
+
+To the west of the island the jungle stops abruptly leading into a wet marsh.
+
+In the north lie small scattered islands covered in jungle trees.
+
+===== Biodiversity =====
+A large population of Simian species such as the Gorilla, Chimpanzee and a [[Giant Capuchin Monkey]] inhabit the central jungle. Various frog species also inhabit jungle in great numbers. It is likely the [[Grippli]] evolved in these jungles.
+
+===== Climate =====
+The climate on Nammach is very hot and very humid with little variation due to season. 
+
+===== Etymology =====
+TODO
+
+===== History =====
+
+
+===== Government =====
+Three [[Grippli]] clans currently controls parts of the island. The leaders of these clans are referred to as [[Daimyo]].
+  * The [[Nammach:Teiji Clan|Teiji clan]] controls the majority of the central jungle and the entirety of the western coast. 
+  * The [[Nammach:Iseri Clan|Iseri clan]] controls the eastern plains and a small part of the jungle. 
+  * The [[Nammach:Kanda Clan|Kanda clan]] controls some of the northern coast and islands.
+
+===== Foreign Relations =====
+In the year 1641[[AF]] explorers from [[Cokumwatch]] found the southern coast of Nammach, meeting with the locals in the port city of [[Nammach:Gliney|Gliney]]
+
+===== Economy =====
+
+
+===== Demographics =====
+
+
+===== Culture =====
+
+
