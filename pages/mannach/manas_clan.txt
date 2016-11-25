@@ -1,0 +1,20 @@
+====== Manas Clan ======
+The Manas clan is a clan of Chimpanzees lead by the [[awakened]] Chimpanzee [[Manas]]. 
+
+===== Population =====
+Gains 1d30 percent new members every level.
+Members:
+  * Manas (Wizard)
+  * 9 Sword Chimps (proficient with swords)
+  * 6 Female Chimps
+  * 5 Baby Chimps
+
+
+===== Loot =====
+  * Sleeves of Many Garments (Translucient cloth tubes) (200gp) (1 lb)
+  * Robe of Needles (Dark Hooded Robe) (1000gp) (4 lb)
+  * 502gp
+  * Oil of Invisibility (lvl 1) (1 lb)
+  * Oil of Mage Armor (lvl 1) (1 lb)
+  * Potion of Cure Light Wounds (lvl 1) (1 lb)
+  * Potion of Darkness (lvl 3) (1 lb)
