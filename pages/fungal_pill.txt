@@ -1,0 +1,10 @@
+====== Fungal Pill ======
+A **Fungal Pill** is an artefact created by ancient [[Grippli]] druids of [[bolg-losgainn]]. When eaten, the pill converts the creature as would normally happen when infected with spores of [[bolg-losgainn]], however in this case the creature maintains control, in effect becoming a separate fungal entity.
+
+Only a few pills were ever made, and only one was ever used. 
+
+Upon eating, the subject must make a DC 15 fortitude save. 
+
+If they fail, they pass out for 1d4 days and gain the [[Fungal Template]] without the release spore ability when/if they wake up. 
+
+If they succeed, they do not pass out, they gain the full [[Fungal Template]].
