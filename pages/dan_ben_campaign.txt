@@ -8,4 +8,27 @@
 Both: [[Anfan]], Cheap hotel
 
 ===== General =====
-They are trying to sell a crown of polymorph velocirapter found at a [[Laghairt]] ruin.
+They are trying to sell a crown of polymorph velocirapter found at a [[Laghairt]] temple on an island about a day away from [[Anfan]].
+
+There are 5 prospective buyers
+
+==== Seasaidh (Shessi) Màrnach ====
+Comes sect of [[Laghairt]] druids that has kept up the old traditions in secret (that's why she has a celtic second name). Wants to buy the item, but tries to do so anonymously so that no-one can trace the item.
+
+She offers 50,000gp, no questions asked. She wants to meet outside of a pub, hires someone to meet wearing a cloak and hood. Gives a bag of 500pp, and takes the item. 
+
+==== Pol Kijuro ====
+An auctioneer who thinks that he would be able to get a very good price for it, suggesting as much as 100,000gp, as he has many clients who are interested in old artefacts like it.
+
+In actuality, he is vying to steal the item when it is unguarded. 
+
+==== Tomaidh Ieyasu ====
+A professor at [[Nammach:Anfan university]], his speciality is ancient druid artifacts. Is willing to pay 500gp to take the item for a month to examine it. 
+
+If the PC's take this option, 2 weeks into the examination, a band of thieves hired by Seasaidh will attempt to steal the item, DC 15 to succeed.
+
+==== Barabla Izo ====
+A curator for the [[Anfan]] druidic museum. Is asking for the PC's to donate the item.
+
+==== Raibeart Benjiro ====
+A private collector. Collects specifically crowns from druidic ruins. Has a collection of non-crown items he's acquired that he's willing to trade.
