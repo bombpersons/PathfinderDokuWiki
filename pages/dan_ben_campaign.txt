@@ -17,6 +17,12 @@ Comes sect of [[Laghairt]] druids that has kept up the old traditions in secret 
 
 PC's find a letter reading:
 
+<code>
+Hello,
+     I have heard that you possess an item I would very much like. I am willing to pay 120pp for the item. 
+If find this deal amicable, wait for a me at midnight at the docks at [[Nammach:Anfan:Adeg bay]]. I will wait there for 1 hour for the next 3 days.
+</code>
+
 
 She offers 50,000gp, no questions asked. She wants to meet outside of a pub, hires someone to meet wearing a cloak and hood. Gives a bag of 500pp, and takes the item. 
 
