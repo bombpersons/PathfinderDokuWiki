@@ -1,0 +1,4 @@
+====== Ring of Tree Becoming ======
+A ring created by [[Grippli]] druids of [[Lus]]. It is made of petrified woven ivy.
+
+The user can only activate the ring when standing in bright sunlight. When activated the users gains Fast Healing 2 for 1 minute. There is a random chance, <20 on a d%, that the user will take 2 permanent dexterity damage, and gain 2 natural armor.
