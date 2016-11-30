@@ -1,0 +1,4 @@
+====== Quarterstaff of Storing ======
+This quarterstaff is made of a what initially seems like thick vines, but when it is slapped against something it hardens into wood.
+
+The quarterstaff has a +1 enhancement bonus. When struck against the something non living, ie the ground, the damage dealt is stored in the staff. The next time the staff hits something it does this damage x3.
