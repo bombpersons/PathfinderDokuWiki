@@ -1,0 +1,11 @@
+====== Necklace of the Panther ======
+Created by [[:Laghairt]] druids in an effort to fully transform into a panther permanently. The necklace was created imperfectly, a full transformation was not possible and many negative traits were passed on.
+
+Increases the wearers dexterity by +4. Extended periods of use will have the following effects:
+
+^Time    ^Effect                                                                                                          ^
+|1 Week  |1 Incisor on the left size grows                                                                                |
+|2 Weeks |Patchy black fur appears on face, find it difficult to digest non-meat.                                         |
+|3 Weeks |Some fingers grow claws making difficult to wield manufactured weapons (-2 penalty on attack rolls)             |
+|4 Weeks |Hands are transforming making it even more difficult to hold manufactured weapons (-4 penalty on attack rolls)  |
+|5 Weeks |Grow very large black furred ears, perception +8 on perception rolls based on audio                             |

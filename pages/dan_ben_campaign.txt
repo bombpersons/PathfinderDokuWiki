@@ -8,7 +8,7 @@
 Both: [[Anfan]], Cheap hotel
 
 ===== General =====
-They are trying to sell a crown of polymorph velocirapter found at a [[Laghairt]] temple on an island about a day away from [[Anfan]].
+They are trying to sell a crown of polymorph velocirapter found at a [[Laghairt]] temple on an island about a day away from [[Nammach:Anfan]].
 
 There are 5 prospective buyers
 
@@ -49,9 +49,16 @@ If you do choose to let us help you sell your item for the best price, please vi
 Yours sincerly.
 </code>
 
-Pol Kijuro is actually the leader for a hustling group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]]. 
+Pol Kijuro is actually the leader for a con group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]]. The office is on the second floor of building, on the first floor is an estate agents (if asked the estate agents will tell the PC's that the people above only just started renting the place).
 
+Members of the team:
+  * A young girl (10) - Anabla
+  * An older man (25) - Brian 
+  * A young man (12) - Cormag
 
+If the PC's take his offer and they meet him at his office:
+
+He will 
 ==== Tomaidh Ieyasu ====
 A professor at [[Nammach:Anfan university]], his speciality is ancient druid artifacts. Is willing to pay 500gp to take the item for a month to examine it. 
 
@@ -75,12 +82,15 @@ Yours faithfully.
 
 He is willing to swap up to 5 points of items. A DC 20 diplomacy check will persuade him to swap up to 7 points of items.
 
-Items Raibeart is very very willing to swap (they're cursed, hehe)
+Items Raibeart is very willing to swap (they're cursed, hehe)
   * [[Lus:Ring of Tree Becoming]] (1)
-  * 
+  * [[Laghairt:Necklace of the Panther]] (2)
 
-Items Raibeart is very willing to swap:
-  * Ring of Protection +2 (8,000gp) (3)
-  * Ring of Rat Fangs (5,000gp) (2)
-  * Shawl of Life-Keeping (1,000gp) (1)
-  * [[Lus:Quarterstaff of Storing]] (2)
+Items Raibeart is willing to swap:
+  * Ring of Protection +2 (8,000gp) (4)
+  * Ring of Rat Fangs (5,000gp) (3)
+  * Shawl of Life-Keeping (1,000gp) (2)
+  * [[Lus:Quarterstaff of Storing]] (3)
+
+Items Raibeart is reluctant to share:
+  * [[Bolg-losgainn:Ring of union]] x2 (5)
