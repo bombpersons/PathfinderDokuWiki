@@ -20,7 +20,7 @@ PC's find a letter reading:
 <code>
 Hello,
      I have heard that you possess an item I would very much like. I am willing to pay 120pp for the item. 
-If find this deal amicable, at midnight wait at the docks by [[Nammach:Anfan:Adeg bay]]. I will have someone waiting there for an hour every night for the next 3 days.
+If find this deal amicable, at midnight wait at the docks by Adeg bay. I will have someone waiting there for an hour every night for the next 3 days.
 </code>
 
 She offers 12,000gp, no questions asked.
@@ -41,7 +41,7 @@ I am Pol Kijuro and I run Kijuro Auctions were we sell many ancient magical arte
 have been selling magical items such as yours to collectors for more than 50 years. 
 
 In order to get the very best price for your artefact, it's necessary to get in front of as many collectors eyes as possible and that *is* possible for us at Kijuro Auctions
-who have possibly the most A list collectors on our database than any other auction company in Anfan right now.
+who have possibly more A list collectors on our database than any other auction company in Anfan right now.
 
 From what I have heard of your artefact, I would expect the item to go for at least 30,000gp, probably more as the competition will be intense.
 
@@ -49,7 +49,7 @@ If you do choose to let us help you sell your item for the best price, please vi
 Yours sincerly.
 </code>
 
-Pol Kijuro is actually the leader for a hustling group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]].
+Pol Kijuro is actually the leader for a hustling group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]]. 
 
 
 ==== Tomaidh Ieyasu ====
@@ -62,3 +62,23 @@ A curator for the [[Anfan]] druidic museum. Is asking for the PC's to donate the
 
 ==== Raibeart Benjiro ====
 A private collector. Collects specifically crowns from druidic ruins. Has a collection of non-crown items he's acquired that he's willing to trade.
+
+PC's find a letter reading:
+
+<code>
+Dear Sir or Madam,
+Rumour has it that you are in possession of a functional druidic crown. I, Raibeart Benjiro, am assembling a collection of druidic crowns from all over Nammach, and I would be delighted if yours could become part of it. 
+
+Now I'm sure you have all sorts of different offers from various buyers, so I shall make a different offer for you. I keep a large collection of magical artefacts, and if we could meet, would be willing to offer some for a swap. What do you say?
+Yours faithfully.
+</code>
+
+He is willing to swap up to 5 points of items. A DC 20 diplomacy check will persuade him to swap up to 7 points of items.
+
+Items Raibeart is very very willing to swap
+  * 
+
+Items Raibeart is very willing to swap:
+  * Ring of Protection +2 (8,000gp) (3)
+  * Ring of Rat Fangs (5,000gp) (2)
+  * Shawl of Life-Keeping (1,000gp) (1)
