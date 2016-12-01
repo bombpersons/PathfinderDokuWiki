@@ -58,19 +58,27 @@ Members of the team:
 
 If the PC's take his offer and they meet him at his office:
 
-  * He will greet them and offer to take them to lunch at an expensive restaurant nearby.
-  * He will discuss with them the details of the auction.
-    * He will ask what guide price they'd like (gives a suggestion) and if they want to place a reserve price.
-    * The auction will take place in 3 days.
-    * On the day of the auction they will need to take the item to the location and leave it with the auctioneer so that they can demonstrate it to the audience and hold the auction.
-  * He will then ask if it's ok for him to show the item to some important collectors before the auction.
-    * He will meet with Anabla at a nearby cafe, who is a young wizard who wants to learn about polymorph spells.
-      * Her parents are rich.
-    * He will ask for them to come back the next day to show it Brian
-      * He has many druidic pieces, wants a crown in his collection. 
-    * On the same day he will show it to Cormag
-      * Is very impressed by it's function.
-      * Hopes it will gain value over time.
+  - He will greet them and offer to take them to lunch at an expensive restaurant nearby.
+  - He will discuss with them the details of the auction.
+    - He will ask what guide price they'd like (gives a suggestion) and if they want to place a reserve price.
+    - The auction will take place in 3 days.
+    - On the day of the auction they will need to take the item to the location and leave it with the auctioneer so that they can demonstrate it to the audience and hold the auction.
+  - He will then ask if it's ok for him to show the item to some important collectors before the auction.
+    - He will meet with Anabla at a nearby cafe, who is a young wizard who wants to learn about polymorph spells.
+      - Her parents are rich.
+    - He will ask for them to come back the next day to show it Brian
+      - He has many druidic pieces, wants a crown in his collection. 
+    - On the same day he will show it to Cormag
+      - Is very impressed by it's function.
+      - Hopes it will gain value over time.
+  - When the election starts at a town hall
+    - They have hired a bunch of extras to fill out the room.
+    - Pol will be the auctioneer, he will try to convince the PC's to allow him to handle the item and demonstrate it.
+    - He will try to hang onto it as the auction commences.
+    - The Anabla, Brian and Cormag will bid competitively but they will reach only short of the reserve price.
+    - During the auction, Pol will attempt to swap the crown out for a different replacement crown. (slight of hand vs perception)
+    - Pol will apologize that the item didn't reach the reserve price, and he will return the replaced crown. (perception DC 20 to see if the crown was swapped)
+  - If the PC's try to go back to the office after finding out their crown is fake, they will find the place cleared out.
 ==== Tomaidh Ieyasu ====
 A professor at [[Nammach:Anfan university]], his speciality is ancient druid artifacts. Is willing to pay 500gp to take the item for a month to examine it. 
 
