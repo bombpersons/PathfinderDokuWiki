@@ -43,7 +43,7 @@ have been selling magical items such as yours to collectors for more than 50 yea
 In order to get the very best price for your artefact, it's necessary to get in front of as many collectors eyes as possible and that *is* possible for us at Kijuro Auctions
 who have possibly more A list collectors on our database than any other auction company in Anfan right now.
 
-From what I have heard of your artefact, I would expect the item to go for at least 30,000gp, probably more as the competition will be intense.
+From what I have heard of your artifact, I would expect the item to go for at least 30,000gp, probably more as the competition will be intense.
 
 If you do choose to let us help you sell your item for the best price, please visit us at our offices in Porthy Gàrradh and ask for Pol Kijuro.
 Yours sincerly.
@@ -52,13 +52,25 @@ Yours sincerly.
 Pol Kijuro is actually the leader for a con group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]]. The office is on the second floor of building, on the first floor is an estate agents (if asked the estate agents will tell the PC's that the people above only just started renting the place).
 
 Members of the team:
-  * A young girl (10) - Anabla
-  * An older man (25) - Brian 
-  * A young man (12) - Cormag
+  * A young girl (10) - Anabla - Playing a young wizard born to a rich family looking to study polymorph spells. +8 bluff
+  * An older man (25) - Brian - Playing a collector who wants this piece in his collection. +5 bluff
+  * A young man (12) - Cormag - Playing a rich transport company owner who wants to invest in expensive artifacts. +5 bluff
 
 If the PC's take his offer and they meet him at his office:
 
-He will 
+  * He will greet them and offer to take them to lunch at an expensive restaurant nearby.
+  * He will discuss with them the details of the auction.
+    * He will ask what guide price they'd like (gives a suggestion) and if they want to place a reserve price.
+    * The auction will take place in 3 days.
+    * On the day of the auction they will need to take the item to the location and leave it with the auctioneer so that they can demonstrate it to the audience and hold the auction.
+  * He will then ask if it's ok for him to show the item to some important collectors before the auction.
+    * He will meet with Anabla at a nearby cafe, who is a young wizard who wants to learn about polymorph spells.
+      * Her parents are rich.
+    * He will ask for them to come back the next day to show it Brian
+      * He has many druidic pieces, wants a crown in his collection. 
+    * On the same day he will show it to Cormag
+      * Is very impressed by it's function.
+      * Hopes it will gain value over time.
 ==== Tomaidh Ieyasu ====
 A professor at [[Nammach:Anfan university]], his speciality is ancient druid artifacts. Is willing to pay 500gp to take the item for a month to examine it. 
 
