@@ -133,15 +133,63 @@ The boat is a Teiji war ship. It is 75ft long and 20ft wide. Up to 10 people can
       * 20 bullets
     * In desk drawer
       * Captains log
-        * July 1st 1673 AF
-          * Describes getting orders to go to the west northern islands and raid, preventing preventing any Kanda troops from landing in Teiji territory. 
-          * Leaves from port in [[Colwy]].
-          * 
-
+        * July 1st 1673 AF - Describes getting orders to go to the west northern islands and raid, preventing preventing any Kanda troops from landing in Teiji territory. 
+        * July 2nd 1673 AF - Leaves from port in [[Colwy]].
+        * July 8th 1673 AF - Found island, stopped to find supplies on the island. 
+      * A masterwork dagger
+  * Crews quarters
+    * 5d6 gp
+    * 20d6 sp
+    * 30d6 cp
+    * 3 Muskets
+    * 3 Gunpowder Horns (20 doses)
+    * 60 bullets
+    * 6 Short swords
+    * 2 Sets of leather armor
   * Cargo hold
     * 10 Barrels of [[Ailbear|nammach:ailbear_tree]] wine.
     * 3 Boxes of dry rations
     * 4 Fishing rods
-    * 
 
 === Island ===
+The island is small, 2km by 2km.
+
+== Encounters ==
+Chance: d% < 70
+^d%     ^Encounter    ^
+|0-20   |Foraging Gnolls - 1d3+1 warrior gnolls + 1d2/2 Shaman Gnolls + 1d2+1  civilians   |
+|20-40  |Encounter the gnoll temple: 1d4+2 warrior gnolls + 1d2 Shaman Gnolls + 1 Slurk    |
+|40-60  |1d2+1 Leaf Leshy ambush from trees                                                |
+|60-80  |1 Fungus Leshy                                                                    |
+|80-100 |Encounter the Lus temple, find the remaining Leshy defending it.                  |
+ 
+== Gnoll Tribe ==
+The gnoll tribe on the island worships a slurk which they keep in a ramshackle "temple" made from spiked wooden sticks. They offer it sacrifice (food, gnolls, etc) and put all of their riches around it. 
+
+They speak in a old variant of the Gnoll language. A linguistic check DC 25 is needed to understand them perfectly. DC 15 is enough to understand some words.
+
+There are 5 Warrior Gnolls, 2 Shaman Gnolls, 4 Children, 10 civilians (total of 21). There is also 1 Slurk.
+
+The two shamans are the leaders. They hate the grippli, they see them as outsiders and the island belongs to the slurk and no-one else. They sacrificed the teiji grippli to the slurk. 
+
+They hate the Leshy and avoid them. They refer to them as "moving plants".
+
+Loot
+  * 20d6 gp
+  * 3 50gp Gems
+  * Potion of Cheetah's Sprint (CL 2)
+  * Potion of Hide from Animals (CL 2)
+  * Masterwork Pistol 
+
+== Druid Temple ==
+There is a Lus temple here. It is defended by Leshy created by grippli druids eons ago.
+
+There are 1 Fungus Leshy, 5 Leaf Leshy.
+
+Loot
+  * A book in old grippli describing how to create leshy.
+  * Scroll of Plant Growth (CL 3)
+  * Scroll of Summon Natures Ally 3
+  * Scroll of Summon Natures Ally 2
+  * Scroll of water breathing (CL 3)
+  * Scroll of obscuring mist (CL 3)
