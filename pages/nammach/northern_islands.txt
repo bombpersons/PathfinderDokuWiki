@@ -1,0 +1,7 @@
+====== Nammach Northern Islands ======
+The north of [[Nammach]] is home to a vast archipelago of small jungle islands. [[Nammach:Anfan]] is the most populated of these, but there are many other small villages and towns located on them. Many of them are also home to [[Gnoll]] tribes.
+
+===== Encounters =====
+Encounter chance: d% < 30
+^d%         ^Encounter                                                  ^
+|0-100      |1d2 + 2 Grindylow (will attack anyone on a small boat)     |
