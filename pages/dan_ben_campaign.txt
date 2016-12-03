@@ -20,7 +20,7 @@ PC's find a letter reading:
 <code>
 Hello,
      I have heard that you possess an item I would very much like. I am willing to pay 120pp for the item. 
-If find this deal amicable, at midnight wait at the docks by Adeg bay. I will have someone waiting there for an hour every night for the next 3 days.
+If find this deal amicable, at midnight wait at the docks by Adeg bay. I will wait there for an hour every night for the next 3 days.
 </code>
 
 She offers 12,000gp, no questions asked.
