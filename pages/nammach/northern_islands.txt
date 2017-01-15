@@ -2,9 +2,20 @@
 The north of [[Nammach]] is home to a vast archipelago of small jungle islands. [[Nammach:Anfan]] is the most populated of these, but there are many other small villages and towns located on them. Many of them are also home to [[Gnoll]] tribes.
 
 ===== Encounters =====
+==== South ====
 Encounter chance: d% < 30
 ^d%         ^Encounter                                                  ^
 |0-20       |1d4 + 1 Giant Botfly                                       |
 |20-30      |1 Botfly Swarm                                             |
 |30-50      |1 Ceratioidi                                               |
 |50-100     |1d3 + 3 Grindylow (will attack anyone on a small boat)     |
+
+==== North ====
+Encounter chance: d% < 30
+^d%         ^Encounter                                                  ^
+|0-20       |1d4 + 1 Giant Botfly                                       |
+|20-30      |1 Botfly Swarm                                             |
+|30-40      |1d2 Giant Water Beetle                                     |
+|40-50      |1 Sea Cat                                                  |
+|50-80      |1 Ceratioidi                                               |
+|80-100     |1d2 Dragonfly, Nymph (Giant)                               |
