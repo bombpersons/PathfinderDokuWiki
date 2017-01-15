@@ -4,4 +4,7 @@ The north of [[Nammach]] is home to a vast archipelago of small jungle islands. 
 ===== Encounters =====
 Encounter chance: d% < 30
 ^d%         ^Encounter                                                  ^
-|0-100      |1d2 + 2 Grindylow (will attack anyone on a small boat)     |
+|0-20       |1d4 + 1 Giant Botfly                                       |
+|20-30      |1 Botfly Swarm                                             |
+|30-50      |1 Ceratioidi                                               |
+|50-100     |1d3 + 3 Grindylow (will attack anyone on a small boat)     |

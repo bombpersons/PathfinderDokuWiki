@@ -1,0 +1,54 @@
+==== Pol Kijuro ====
+An auctioneer who thinks that he would be able to get a very good price for it, suggesting as much as 30,000gp, as he has many clients who are interested in old artefacts like it.
+
+He sends a letter reading:
+
+<code>
+Kijuro Auctions
+21 Porthy Gàrradh
+Anfan
+
+Dear sir or madam,
+It is to my understanding that you have recently acquired a powerful artefact that is has most certainly caught the attention of collectors and educators alike.
+I am Pol Kijuro and I run Kijuro Auctions were we sell many ancient magical artefacts to collectors here in Anfan. Started by my father in 1623 AF, we at Kijuro Auctions
+have been selling magical items such as yours to collectors for more than 50 years. 
+
+In order to get the very best price for your artefact, it's necessary to get in front of as many collectors eyes as possible and that *is* possible for us at Kijuro Auctions
+who have possibly more A list collectors on our database than any other auction company in Anfan right now.
+
+From what I have heard of your artifact, I would expect the item to go for at least 30,000gp, probably more as the competition will be intense.
+
+If you do choose to let us help you sell your item for the best price, please visit us at our offices in Porthy Gàrradh and ask for Pol Kijuro.
+Yours sincerly.
+</code>
+
+Pol Kijuro is actually the leader for a con group. He and his groups members have began renting a small office in [[Mannach:Anfan:Porthy Garradh]]. The office is on the second floor of building, on the first floor is an estate agents (if asked the estate agents will tell the PC's that the people above only just started renting the place).
+
+Members of the team:
+  * A young girl (10) - Anabla - Playing a young wizard born to a rich family looking to study polymorph spells. +8 bluff
+  * An older man (25) - Brian - Playing a collector who wants this piece in his collection. +5 bluff
+  * A young man (12) - Cormag - Playing a rich transport company owner who wants to invest in expensive artifacts. +5 bluff
+
+If the PC's take his offer and they meet him at his office:
+
+  - He will greet them and offer to take them to lunch at an expensive restaurant nearby.
+  - He will discuss with them the details of the auction.
+    - He will ask what guide price they'd like (gives a suggestion) and if they want to place a reserve price.
+    - The auction will take place in 3 days.
+    - On the day of the auction they will need to take the item to the location and leave it with the auctioneer so that they can demonstrate it to the audience and hold the auction.
+  - He will then ask if it's ok for him to show the item to some important collectors before the auction.
+    - He will meet with Anabla at a nearby cafe, who is a young wizard who wants to learn about polymorph spells.
+      - Her parents are rich.
+    - He will ask for them to come back the next day to show it Brian
+      - He has many druidic pieces, wants a crown in his collection. 
+    - On the same day he will show it to Cormag
+      - Is very impressed by it's function.
+      - Hopes it will gain value over time.
+  - When the election starts at a town hall
+    - They have hired a bunch of extras to fill out the room.
+    - Pol will be the auctioneer, he will try to convince the PC's to allow him to handle the item and demonstrate it.
+    - He will try to hang onto it as the auction commences.
+    - The Anabla, Brian and Cormag will bid competitively but they will reach only short of the reserve price.
+    - During the auction, Pol will attempt to swap the crown out for a different replacement crown. (slight of hand vs perception)
+    - Pol will apologize that the item didn't reach the reserve price, and he will return the replaced crown. (perception DC 20 to see if the crown was swapped)
+  - If the PC's try to go back to the office after finding out their crown is fake, they will find the place cleared out.

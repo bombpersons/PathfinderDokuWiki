@@ -1,55 +1,38 @@
-1480286281	86.6.79.57	C	nammach:anfan	bombpersons	created		208
-1480286494	86.6.79.57	E	nammach:anfan	bombpersons			47
-1480288126	86.6.79.57	C	bolg-losgainn	bombpersons	created		148
-1480290465	86.6.79.57	E	bolg-losgainn	bombpersons			60
-1480290906	86.6.79.57	C	laghairt	bombpersons	created		197
-1480290915	86.6.79.57	E	laghairt	bombpersons			1
-1480290933	86.6.79.57	C	lus	bombpersons	created		183
-1480292256	86.6.79.57	C	nammach:nature_spirit	bombpersons	created		124
-1480292265	86.6.79.57	E	nammach:nature_spirit	bombpersons			1
-1480292287	86.6.79.57	E	lus	bombpersons			3
-1480366527	81.97.216.220	E	start	bombpersons			-310
-1480366536	81.97.216.220	E	start	bombpersons	[Big articles] 		1
-1480366545	81.97.216.220	E	start	bombpersons	[Scratchboards] 		1
-1480366737	81.97.216.220	C	dan_ben_campaign	bombpersons	created		65
-1480367075	81.97.216.220	C	calendar	bombpersons	created		376
-1480367182	81.97.216.220	E	calendar	bombpersons			171
-1480367231	81.97.216.220	E	calendar	bombpersons			15
-1480367375	81.97.216.220	E	dan_ben_campaign	bombpersons			200
-1480367399	81.97.216.220	E	dan_ben_campaign	bombpersons			0
-1480372305	81.97.216.220	E	dan_ben_campaign	bombpersons			1385
-1480450322	81.97.216.220	E	dan_ben_campaign	bombpersons			30
-1480456260	81.97.216.220	E	dan_ben_campaign	bombpersons	[Seasaidh (Shessi) Màrnach] 		279
-1480456860	81.97.216.220	E	dan_ben_campaign	bombpersons			-108
-1480459635	81.97.216.220	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		1201
-1480460546	81.97.216.220	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		1
-1480461191	81.97.216.220	E	dan_ben_campaign	bombpersons	[Seasaidh (Shessi) Màrnach] 		-18
-1480461314	81.97.216.220	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		-4
-1480463912	81.97.216.220	E	dan_ben_campaign	bombpersons	[Raibeart Benjiro] 		881
-1480510453	217.113.163.163	E	dan_ben_campaign	bombpersons	[Raibeart Benjiro] 		29
-1480510475	217.113.163.163	E	dan_ben_campaign	bombpersons	[Raibeart Benjiro] 		0
-1480510679	217.113.163.163	C	lus:ring_of_tree_becoming	bombpersons	created		369
-1480517846	217.113.163.163	E	dan_ben_campaign	bombpersons	[Raibeart Benjiro] 		72
-1480518270	217.113.163.163	C	lus:quarterstaff_of_storing	bombpersons	created		381
-1480536911	81.97.216.220	E	nammach:nature_spirit	bombpersons			52
-1480536942	81.97.216.220	E	nammach:nature_spirit	bombpersons			3
-1480536966	81.97.216.220	E	nammach:nature_spirit	bombpersons			2
-1480538249	81.97.216.220	C	bolg-losgainn:ring_of_union	bombpersons	created		597
-1480540972	81.97.216.220	C	laghairt:necklace_of_the_panther	bombpersons	created		1089
-1480541562	81.97.216.220	E	dan_ben_campaign	bombpersons	[Raibeart Benjiro] 		111
-1480542415	81.97.216.220	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		370
-1480542986	81.97.216.220	E	dan_ben_campaign	bombpersons	[General] 		8
-1480596908	217.113.163.163	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		1259
-1480597669	217.113.163.163	E	dan_ben_campaign	bombpersons	[Pol Kijuro] 		810
-1480631105	81.97.216.220	E	dan_ben_campaign	bombpersons	[Current Location] 		8
-1480632036	81.97.216.220	E	nammach:anfan	bombpersons			20
-1480632053	81.97.216.220	E	dan_ben_campaign	bombpersons	[General] 		10
-1480708598	81.97.216.220	E	dan_ben_campaign	bombpersons			662
-1480710630	81.97.216.220	E	dan_ben_campaign	bombpersons	[Teasags adventure] 		895
-1480720591	81.97.216.220	C	nammach:northern_islands	bombpersons	created		481
-1480777800	81.97.216.220	E	dan_ben_campaign	bombpersons	[Teasags adventure] 		2117
-1480778792	81.97.216.220	E	dan_ben_campaign	bombpersons	[Teasags adventure] 		-5
-1480781203	81.97.216.220	E	dan_ben_campaign	bombpersons	[Seasaidh (Shessi) Màrnach] 		-16
-1480794666	81.97.216.220	E	dan_ben_campaign	bombpersons	[Teasags adventure] 		26
-1480794756	81.97.216.220	E	dan_ben_campaign	bombpersons	[Island] 		19
-1480851465	81.97.216.220	E	dan_ben_campaign	bombpersons	[Teasags adventure] 		20
+1483804541	90.202.83.47	E	wiki:known_world	bombpersons	[Nations] 		3
+1483805444	90.202.83.47	E	nammach	bombpersons			333
+1483805472	90.202.83.47	E	nammach	bombpersons	[Cities] 		56
+1483805485	90.202.83.47	E	nammach	bombpersons	[Towns] 		88
+1483805554	90.202.83.47	E	dan_ben_campaign	bombpersons	[Punishment for killing Seumas Basho] 		230
+1483805593	90.202.83.47	C	nammach:porthca	bombpersons	created		177
+1483825030	90.202.83.47	E	nammach:9_buisreach	bombpersons			261
+1483825056	90.202.83.47	E	nammach:9_buisreach	bombpersons	[Doirin Susuzme] 		-1
+1483844555	90.212.123.155	E	nammach:northern_islands	bombpersons	[Encounters] 		222
+1483875037	90.212.123.155	E	nammach:porthca	bombpersons			2689
+1483877251	90.212.123.155	E	dan_ben_campaign	bombpersons	[Punishment for killing Seumas Basho] 		12
+1483882237	90.212.123.155	E	the_knife_on_the_sea	bombpersons			29
+1483882571	90.212.123.155	E	dan_ben_campaign	bombpersons	[Punishment for killing Seumas Basho] 		1034
+1483883872	90.212.123.155	E	dan_ben_campaign	bombpersons			31
+1483884502	90.212.123.155	E	dan_ben_campaign	bombpersons	[Returning to Anfan] 		-1
+1483913131	94.5.164.55	E	wiki:plane	bombpersons	[Planar Stack] 		48
+1483913383	94.5.164.55	E	wiki:higher_space	bombpersons			83
+1484076693	2.222.225.161	D	talk:mannach:gliney_narfaif_bridge	bombpersons	removed		-500
+1484076704	2.222.225.161	C	mannach:gliney_narfaif_bridge	bombpersons	created		500
+1484175776	2.222.225.161	D	wiki:plane	bombpersons	removed		-512
+1484175790	2.222.225.161	C	plane	bombpersons	created		512
+1484175830	2.222.225.161	D	wiki:higher_space	bombpersons	removed		-711
+1484175841	2.222.225.161	C	higher_space	bombpersons	created		711
+1484175861	2.222.225.161	C	customer_service	bombpersons	created		69
+1484175878	2.222.225.161	D	wiki:high_space	bombpersons	removed		-134
+1484175892	2.222.225.161	C	high_space	bombpersons	created		134
+1484175904	2.222.225.161	D	wiki:low_space	bombpersons	removed		-96
+1484175911	2.222.225.161	C	low_space	bombpersons	created		96
+1484181644	2.222.225.161	E	customer_service	bombpersons			518
+1484442613	90.212.29.75	C	nammach:llery	bombpersons	created		3724
+1484442955	90.212.29.75	C	nammach:freedom_ninja	bombpersons	created		826
+1484444634	90.212.29.75	C	nammach:rharny	bombpersons	created		2092
+1484445057	90.212.29.75	C	nammach:caldy	bombpersons	created		1262
+1484445102	90.212.29.75	E	nammach	bombpersons			24
+1484445759	90.212.29.75	C	nammach:tregar	bombpersons	created		1147
+1484445890	90.212.29.75	C	nammach:the_hunters_of_the_knife	bombpersons	created		293
+1484482533	90.212.29.75	D	mannach:gliney_narfaif_bridge	bombpersons	removed		-500
+1484482545	90.212.29.75	C	nammach:gliney_narfaif_bridge	bombpersons	created		500

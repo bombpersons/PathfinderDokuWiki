@@ -1,0 +1,55 @@
+====== Porthca ======
+Porthca is a small town and island north of the island of [[Nammach:Antwigh]] and the peninsula located between [[Nammach:Hottat]] and [[Nammach:Llantry]].
+
+The island is mostly flat, with little to no trees growing. In the center of the island, is a stone tower where the governor lives. The majority of the town is on the eastern side of the island, with a large docks where ships are built is located.
+
+===== History =====
+
+
+===== Demographics =====
+A total population of around 500-600. 95% [[Grippli]] and 5% [[Gnoll]].
+
+===== Government =====
+Porthca is ruled over by a governor appointed by the [[Kanda Clan]]. 
+
+The current governor is named Tomas. 
+
+===== People =====
+
+==== Tomas ====
+The appointed governor of Porthca. Used to be a archer in the Kanda army.
+
+He is envious of larger towns and feels that he would be more useful governing a larger town. He is abusive of the general population. He put's up with the [[Porthca:Deep Mine]] but isn't happy about the noise and hassle it causes.
+
+===== Quest Hooks =====
+
+==== Underground Hellions ====
+Residents have been hearing strange growling and klinking sounds from underground.
+
+Underneath the governors tower, a tunnel leads to a large cavern underneath the island, where the [[Buisreach]] Doirin mines deep into the earth, see [[Porthca:Deep Mine]].
+
+If investigated, the PC's may find an NPC who's basement's floor has partially collapsed, revealing a dark cavern below.
+They could also sneak into the tower, and find an entrance there.
+
+If they find themselves in the mine, they will find that the mine is populated mostly by Hellions digging. The Hellions will be hostile. 2 hours after entering, Doirin herself and a party of 3 guards will enter and attempt to subdue the PCs.
+
+At the bottom of the pit (10 miles deep), the PCs will find a solid metal wall and can hear a faint humming noise from behind it (it leads to the central [[:Kurji]] control center). It may take the party a few days to reach the bottom.
+
+==== Unfair imprisonment ====
+A band of ninja's ("Freedom") known for breaking people they perceive to be innocent out of prison has been caught and imprisoned themselves. The PCs find that there are more than a few locals who were supportive of their goals. 
+
+If the PC's investigate they can locate where they are imprisoned. 
+
+They are held in the dungeons beneath the tower.
+
+Their leader Asgall and 3 other ninjas are imprisoned there.
+
+A group of 10 soldiers guard the dungeon. They take alternating shifts, 5 at a time. 2 patrol the corridors at all times. The rest stay in guard room next to the cells. Tomas himself occasionally visits the dungeons (a 20%< chance at any time). If the alarm is raised, he can get there within 2 minutes.
+
+===== Faculties =====
+  - 1 School
+  - 1 Blacksmith
+  - 1 Magic Shop
+  - 1 Town Hall
+  - 2 Inns
+  - 1 Shipwright

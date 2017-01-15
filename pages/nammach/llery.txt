@@ -1,0 +1,55 @@
+====== Llery ======
+Population: 3,000 - 5,000
+Llery is a large town divided between two islands. In between the two islands is a castle that has been abandoned for centuries.
+
+===== North Llery =====
+North Llery is the rich side of LLerry. There are many large estates here. 
+
+A rare berry called the [[Limberry]] is grown here to make a fine wine. The families that own the berryyards here go back hundreds of years all the way back to before the original exile of the [[Kanda Clan]].
+
+===== South Llery =====
+South Llery is the poor side of Llerry. It used to be prosperous with many famous shipwrights perfecting their craft here. Once the emperor moved to [[Anfan]], he brought most of the great shipwrights and contracts with him, leaving the remaining mostly out of work. 
+
+A cheaper version of [[Limberry]] wine is made here with a different variety of the berry. The wine tastes similar but has a licorice like after taste that many find unpleasant.  
+
+===== Governor =====
+The current governor of Llery is a great fancier of the wine made in south Llery. He neglects a lot of his duties in favor of attending wine tasting parties, visiting berryyards and generally living a hedonistic lifestyle.
+
+===== Llery Castle =====
+Llery castle was built over 600 years ago, where the emperor of the [[Kanda Clan]] and his family would live. In recent generations, the castle was not used and fell into disrepair.
+
+It is said that a woman in a dark robe can be seen in the towers at night. An eery wail can be heard at times during the night. The place is avoided, most of the locals saying that it is a haunted place.
+
+==== PC Info ====
+If the party attempts to enter the castle, anyone who hears of it will advice against it, but will not stop them. 
+
+The party will find a mostly abandoned castle, with some weapons and jewellery that might be worth a little gold. The place is very dusty and empty. 
+
+If they enter in the day, nothing will bother them. 
+If they enter at night, there is a chance they will encounter the banshee woman (use banshee stats).
+
+The banshee was a maid who lived at the castle during the period at which the emperor lived there. She was driven mad by [[:Altera::The Sadist]] and given extreme power and drove away all that lived there. When she died she turned into a banshee.
+
+Upon defeating the banshee, [[:Altera::The Sadist]] will appear to the party as a hologram. He will congratulate them on the banshee's defeat. He will offer the party a [[Sacrificial Dagger of Wailing]] in return for putting the contents of a vial into a water source of a town. He won't explain the contents of the vial, but it contains a disease designed to cause extreme suffering and pain to those afflicted, [[A Fate Worse than Death]]. 
+
+===== Wine Thieves =====
+A group of thieves from southern Llery are plotting to steal a shipment of [[Limberry]] wine. 
+
+==== PC Info ====
+Their plan is to board the ship by climbing on from the water and using [[Drow Poison]] to put everyone to sleep with shurikens. Then dump their bodies on the shore and sell the wine in [[Anfan]].
+
+The players can hear the rumor by staying at a shady Inn or bar, or by looking for a thief group to join up with.
+
+They can also hear of a merchant wanting to hire lookouts for a ship if they are hanging out on the northern island.
+
+Use lvl 2 ninjas for the thieves (2 of them). Use 2 lvl 1 commoners for the sailors and a lvl 4 fighter for a guard (if the players aren't on the boat).
+
+===== Freedom Ninjas =====
+
+==== PC Info ====
+The [[Freedom Ninja]] have their secret base on the southern island. It is hidden underneath some bushes, which lead to a cave. 
+
+=== Loot ===
+Potion of Invisibility x3
+Potion of Leave no trace x3
+223gp

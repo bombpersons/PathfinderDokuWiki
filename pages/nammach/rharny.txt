@@ -1,0 +1,38 @@
+====== Rharny ======
+Rharny is a tiny island, with a small lake at the center. Inside the lake is an old druid temple that is used as a palace for the governor.
+
+===== Governor =====
+The governor likes how quiet the town is and is most displeased when adventurers or scientists want to investigate the labyrinth. He denies access to everyone.
+
+==== PC Info ====
+If the PC's do want to enter the labyrinth, they will either have to sneak into it without anyone noticing, or convince the governor. A DC 25 diplomacy check will convince him. 
+
+===== Druid Temple =====
+An old [[Laghairt]] temple, constructed from what looks like interlocked giant shark teeth. The governor currently lives here.
+
+Underneath the temple is a labyrinth that no-one has yet found an end to.
+
+==== PC Info ====
+The labyrinth is a very long dirt tunnel.
+
+^ d%     ^ Encounter        ^
+| 0-40   | 2d6 amber ooze   |
+| 40-70  | 1d2 ebon ooze    |
+| 70-100 | 1 deathtrap ooze |
+
+Roll once every 5 km.
+
+^ KM in  ^ Description      ^
+| 0-2    | A dirt tunnel without much interesting variation.       |
+| 2-5    | The dirt begins to have little fleshy growths protruding from it.  |
+| 5-10   | There is more flesh than dirt now, the flesh seems to pulsate in unison.  |
+| 10-20  | Then entire tunnel is pulsating flesh |
+| 20-21  | The walls begin to sway side to side and move. At the end, the flesh walls begin to constrict pushing the party forwards until they are spat out of the mouth of a giant snake. |
+
+The party will be spat out into a large cavern, where a giant snake (use giant anaconda stats) attached to the ceiling will attempt to kill them.
+
+At the center of the cavern is a platform that has an amulet lying upon it (an amulet of snake transform).
+
+If the party looks they will find that there is an exit to the cavern, which leads to another dirt tunnel. Encounter table and length the same as above. When they get spat out this time, they will be spat out into the lake by a giant sea snake attached to the ground. The party will be able to swim back up to the surface and escape. 
+
+Population: 200-300
