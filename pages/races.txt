@@ -1,0 +1,11 @@
+====== Races ======
+
+===== Playable Races =====
+  - [[Grippli]]
+  - [[Gnoll]]
+  - [[Monkey Goblin]]
+  - [[Human]]
+  - [[Elf]]
+  - [[Orc]]
+  - [[Kirju]]
+  - [[Habican]]
