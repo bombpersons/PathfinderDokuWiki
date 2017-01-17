@@ -1,0 +1,26 @@
+====== Kirju ======
+The Kirju are a sentient gaseous lifeform. They control dolls usually in the shape of humanoid creatures (usually humans) via telekinesis. A glass orb inside the head of the doll acts as a vessel to store their gaseous form.
+
+In order to see, most dolls have holes for eyes (sometimes with lenses) that lead directly to the brain orb, leaving their gaseous form visible through them. It is said that their eyes are especially beautiful.
+
+===== Abilities =====
+Ability Scores: Int +4 Cha -2
+Vision: Normal
+Size: Medium
+
+==== Telekinesis ====
+All Kirju are capable of telekinesis. With familiarity they become stronger in their control. A Kirju may have trouble lifting a pen from a table, but be fully capable of moving their doll with the same dexterity and strength of a human. If the Kirju becomes very familiar with that particular pen, they may find that they have more control over it. 
+
+If a Kirju changes body due to injury or being born, their dexterity is reduced to zero, and they regain 1d3 dexterity every week.
+
+A Kirju can become familiar with using telekinesis on a particular object by practising. After 3d6 days they are capable of moving the object with little effort around them in a (5ft at lvl1, 10ft at lvl8, 15ft at lvl15) radius. This includes using weapons and the increased range will increase the threat range of opportunity attacks. When doing this use INT as damage stat.
+
+==== Healing ====
+Kirju do not have any way of naturally healing and they must repair their doll themselves if damaged. Healing spells do not work on Kirju. If their brain orbs are smashed, they are dead for good.
+
+==== Arcane Magic ====
+Whilst technically possible, few Kirju are capable of casting arcane magic. They are incapable of hearing the rhythm or the song naturally, but are capable of building technology to do so. 
+
+==== Divine Magic ====
+Most of Kirju meddling in [[Low Space]] is in fact a form of divine magic (altering of reality from a plane above). Very few Kirju are capable of divine magic outside of this however.
+
