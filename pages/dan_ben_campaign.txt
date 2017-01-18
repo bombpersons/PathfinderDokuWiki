@@ -1,36 +1,8 @@
 ====== Ben + Dan Campaign ======
 
 ===== Current Time =====
-1673 [[AF]], July 19th ([[Calendar]])
+1673 [[AF]], July 26th ([[Calendar]])
 
 ===== Current Location =====
-Both: [[Nammach:Ardit]]
+Both: [[Nammach:Tregar]]
 
-==== Punishment for killing Seumas Basho ====
-As a member of the buisreach, basho was telepathically linked with a handler in [[Nammach:Anfan]], and therefore they are fully aware of the PC's and their incoming ship. [[Nammach:Iseabal Kanda]] herself wishes to meet with the PC's and offer them an ultimatum.
-
-If they take this option, they will have permanency with the following spels:
-  - Telepathic Bond (with a handler)
-
-=== Have a geas cast upon them to find and go to the location of the [[Knife on the Sea]] ===
-They will then be put together with another group of prisoners and have Geass cast on them to physically find and inform them about the [[Knife on the Sea]] is.
-
-=== Become a member of the [[9 buisreach]] to take basho's place ===
-If they take this option, Yarla will be given the option to be Rut's assistant.
-
-Isaebal will cast permanency with the following spells on both of them:
-  - Detect Magic
-  - Read Magic
-
-Isaebal will give Rut the option of choosing where to live.
-  - A castle in the small island between [[Nammach:Llery]].
-  - Build a home on [[Nammach:Ardit]].
-  - The caves of [[Nammach:Tregar]].
-
-=== Be put to death after experimentation ===
-I'd assume they don't pick this option, but if they do Isaebal will attempt to cast a risky long range teleportation spell upon them (viewed once). She will attempt to send them as far south as possible. If successful, they will reach [[Gne]]. A handler who has the telepathic bond will immediately ask them to describe their location and investigate.
-
-==== Yarlas Curse ====
-
-==== Returning to Anfan ====
-If the PC's make it back to [[Anfan]] on the ship they have found, they will find themselves ambushed by guards and mages when they land. A DC 20 perception check will reveal the ambush before landing. There will be 6 magic ninjas.
