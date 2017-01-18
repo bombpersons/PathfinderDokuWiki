@@ -3,8 +3,15 @@ A very small town. Used to be inhabited by only a single isolationist [:Grippli]
 
 Population: 50-100
 
-===== Originals Hut =====
-The original family that lived on the island live in a hut on the surface of the island. They get their food by fishing, and have a rain collector setup to get water. The family consists of a husband and wife. They don't like to talk to anyone.
+===== Originals Hut ===== 
+The original family that lived on the island live in a hut on the surface of the island. They get their food by fishing, and have a rain collector setup to get water. The family consists of a husband, wife and a son. They don't like to talk to anyone.
+
+(TODO: There's probably something really weird about them)
+Family is cursed with lyncanthropy? 
+
+They have lived on the island for 20+ years, moving here to find a place where they would not be bothered by anyone.
+
+A DC 20 perception check whilst at the cave at night will reveal that the son is atop the cave with a pickaxe swinging at the ground. The son is attempting to destabilize the cave roof to cause a cave in, preventing the hunters from living there.
 
 ===== Town =====
 Most of the "town" that has been built up within the last 3 months or so has been done so by [[Knife Hunters]]. They have used a sea cave that is located beneath the cliffy northern side of the island. It helps protect them from the temperature and gives them shelter from the winds. 
