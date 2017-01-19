@@ -24,3 +24,35 @@ Whilst technically possible, few Kirju are capable of casting arcane magic. They
 ==== Divine Magic ====
 Most of Kirju meddling in [[Low Space]] is in fact a form of divine magic (altering of reality from a plane above). Very few Kirju are capable of divine magic outside of this however.
 
+===== Racial Traits =====
+==== Ability Score Racial Traits ====
++4 intelligence, -2 charisma, -2 wisdom, no constitution (use 10 if needed for a stat or save DC)
+
+==== Type ====
+Construct
+
+  - No Constitution score. Any DCs or other Statistics that rely on a Constitution score treat a construct as having a score of 10 (no bonus or penalty).
+  - Low-light vision.
+  - Darkvision 60 feet.
+  - Immunity to all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms).
+  - Immunity to bleed, disease, death effects, necromancy effects, paralysis, poison, sleep effects, and stunning.
+  - Cannot heal damage on its own, but often can be repaired via exposure to a certain kind of effect (see the creature's description for details) or through the use of the Craft Construct feat. Constructs can also be healed through spells such as make whole. A construct with the fast healing special quality still benefits from that quality.
+  - Not subject to ability dame, ability drain, fatigue, exhaustion, energy drain, or nonlethal damage.
+  - Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
+  - Not at risk of death from massive damage. Immediately destroyed when reduced to 0 hit points or less.
+  - A construct cannot be raised or resurrected.
+  - A construct is hard to destroy, and gains bonus hit points based on size, as shown on the following table.
+  - Proficient with its natural weapons only, unless generally humanoid in form, in which case proficient with any weapon mentioned in its entry.
+  - Proficient with no armor.
+  - Constructs do not breathe, eat, or sleep.
+
+^ Construct Size     ^ Bonus Hit Points    ^
+| Fine               | -                   |
+| Diminutive         | -                   |
+| Tiny               | -                   |
+| Small              | 10                  |
+| Medium             | 20                  |
+| Large              | 30                  |
+| Huge               | 40                  |
+| Gargantuan         | 60                  |
+| Colossal           | 80                  |
