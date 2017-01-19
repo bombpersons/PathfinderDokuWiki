@@ -12,6 +12,14 @@ To the west of the island the jungle stops abruptly leading into a wet marsh.
 
 In the north lie small scattered islands covered in jungle trees.
 
+===== Regions =====
+  - [[Central Jungle]]
+  - [[Eastern Plains]]
+  - [[Northern Jungle]]
+  - [[Northern Coastal Islands]]
+  - [[South Sea]]
+  - [[North Sea]]
+
 ===== Biodiversity =====
 A large population of Simian species such as the Gorilla, Chimpanzee and a [[Giant Capuchin Monkey]] inhabit the central jungle. Various frog species also inhabit jungle in great numbers. It is likely the [[Grippli]] evolved in these jungles.
 
