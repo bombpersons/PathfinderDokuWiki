@@ -1,5 +1,5 @@
 ====== Nammachian North Sea ======
-The north of [[Nammach]] is home to a vast archipelago of small jungle islands. [[Nammach:Anfan]] is the most populated of these, but there are many other small villages and towns located on them. Many of them are also home to [[Gnoll]] tribes.
+The north of [[Nammach]] is home to a vast archipelago of small jungle islands. [[Nammach:Anfan]] is the most populated of these, but there are many other small villages and towns located on them. Many of them are also home to [[Gnoll]] tribes. [[The Knife on the Sea]] is located in the far north.
 
 ===== Encounters =====
 ==== Inner Island Waters ====
@@ -17,8 +17,8 @@ Encounter chance: d% < 50
 |10-30      |1 Botfly Swarm                                             |
 |30-40      |2d3 Giant Water Beetle                                     |
 |40-50      |1d6 Sea Cats                                               |
-|50-80      |1d6 Ceratioidi                                             |
-|80-95      |1d2 Dragonfly, Nymph (Giant)                               |
-|95-100     |1 Brine Dragon (5d12 / 5 for age)                          |
+|50-60      |1d6 Ceratioidi                                             |
+|60-70      |1d2 Dragonfly, Nymph (Giant)                               |
+|70-100     |1 Brine Dragon Wyrm                                        |
 
 Brine Dragons make their nests here.
