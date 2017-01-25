@@ -1,0 +1,38 @@
+===== Hoover Bot (CR 2) =====
+**XP 600**
+
+N Small Construct (robot)
+
+**Init** +3; **Senses** Darkvision 60ft., Low-light vision; Perception +7
+==== Defense ====
+**AC** 17, touch 13, flat-footed 14 (+3 dex, +4 natural)
+
+**HP** 30 (3d10+10)
+
+**Fort** +0, **Ref** +3, **Will** +1
+
+**Defensive Abilities** all-around vision **Immune** construct traits
+
+**Weaknesses** vulnerable to critical hits (DC 15 Fort save or stunned for 1 round), vulnerable to electricity (150% dmg)
+
+==== Offense ====
+**Speed** 30ft
+
+**Melee** 2 slams +4 (1d3)
+
+**Ranged** cleaning laser +8 (1d8) (60ft)
+
+==== Statistics ====
+**Str** 10, **Dex** 16, **Con** -, **Int** -, **Wis** 12, **Cha** 1
+
+**Base Atk** +2; **CMB** +1 (+6 whilst grappling); **CMD** 17
+
+**Feats** Alertness
+
+**Skills** Perception +6
+
+**Languages** None
+
+==== Special Abilities ====
+=== Hoover ===
+As a swift action, the creature can attempt a grapple on any creature adjacent to it that is the same size category or smaller than itself.
