@@ -11,6 +11,19 @@ After the fall, with the [[:Great Benvaubo'u]]'s minions in disarray and memorie
 
 The newly formed [[:Kirju]] did not know the true reason for Plini's existence, so they brushed it aside mostly focusing mostly on re-affirming their control over [[:Low space]]. A small contingency is placed there just in case something strange happens. If any of their actions causes any inconvenience for inhabitants, they have a similar compensation program to the one they use in [[:Low space]]. Given the location can lead directly to [[:High space]], inhabitants that find out about it are usually picked up and their memory wiped.
 
+===== Structure =====
+
+==== Surface ====
+The surface of Plini is made of rock, covered with a sea of water, forming continents. The surface is in the shape of a semi-sphere. Near the edges, where little light reaches, a lip curves upwards where the edge of the world lies.
+
+==== Interior ==== 
+40-50 km deep within the rock exterior, the core of Plini is a 1 meter thick shell of carbon nanotubes. Within this is a sprawling complex of monitoring equipment, and at the center a heavy duty lift 1km wide that leads directly to the sealed gate that leads to [[High Space]].
+
+Within the complex are many unused sections that have not been visited since the fall of the [[:Great Benvaubo'u]], often referred to as [[Plini:The Old Corridors]].
+
+==== Portals ====
+Beyond the gate at the bottom of the elevator, is the initial rip in [[High Space]] that lead to [[Higher Space]]. A small station is built out of the rip, as well as the generators for [[:Gusli'i Solri]]. The location itself is fairly remote, requiring a ship to travel to more populated regions of [[High Space]]. It is guarded by a small team managed by the [[:Kirju:Department of Plini]].
+
 ===== Kirju =====
 The [[:Kirju]] [[:Kirju:Department of Plini]] is mostly left to it's own devices when managing Plini, without much outside interference from other [[:Kirju]] depratments. 
 
