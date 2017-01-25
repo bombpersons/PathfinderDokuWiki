@@ -6,3 +6,5 @@ The forgotten corri
 ==== Treasure ====
 
 ==== Wildlife ====
+
+[[:Bestiary:Hoover Bot]]
