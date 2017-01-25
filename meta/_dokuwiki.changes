@@ -29,3 +29,6 @@
 1485349885	217.113.163.163	E	plini	bombpersons			1152
 1485350143	217.113.163.163	E	kirju:department_of_plini	bombpersons			246
 1485353817	217.113.163.163	C	plini:the_old_corridors	bombpersons	created		92
+1485358590	217.113.163.163	D	plini:the_old_corridors	bombpersons	removed		-92
+1485358610	217.113.163.163	C	plini:the_forgotten_corridors	bombpersons	created		118
+1485358630	217.113.163.163	E	plini	bombpersons	[Interior] 		6
