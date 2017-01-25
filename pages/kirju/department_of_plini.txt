@@ -1,4 +1,5 @@
 ====== Department of Plini ======
+[[Plini]] is mostly ignored by the rest of [[:Kurji]] organization. Very few [[:Kurji]] and resources are sent there. They answer directly to [[The Council]], although [[The Council]] hasn't asked anything of them since their creation in 1121 AF.
 
 ===== Caretakers =====
 The caretakers attend to repairs and general maintenance of the internal structure of [[Plini]]. They also ensure that the internals remain unknown to sentient life on [[Plini]].
@@ -20,3 +21,7 @@ In 1622 AF, as a punishment for misleading [[The Council]], as well as the destr
 ===== Agents =====
 
 ==== Yaslam ====
+  - Loner
+  - Explores the world looking for interesting people.
+  - Will spend years helping people it deems fit.
+  - Hasn't been in contact with the caretakers in 30 years.
