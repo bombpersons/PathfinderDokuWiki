@@ -1,0 +1,8 @@
+===== Rythmophone =====
+A technological device used to listen to [[:The Rhythm]]. It is small enough to hold in the hands of a medium creature. 
+
+It has a button on the top which when pressed will play [[:The Rhythm]] playing in the current area, with a changeable delay. 
+
+  - **2 second delay** any caster attempting to cast an arcane spell must succeed on a DC 15 + spell lvl concentration check to cast a spell within audible range (60ft) (They can plug their ears whilst casting to negate this).
+  - **0.5 second delay** reality warps slightly to [[:The Rhythm]], any caster attempting to cast an arcane spell must succeed on a DC 20 + spell lvl concentration check (if they can hear it), as well as a DC 20 spell craft check to cast the spell under the strange conditions.
+  - **0.01 second delay** reality violently warps to [[:The Rhythm]], causing permanent deformations to matter within 60ft of the device. Creatures within this range take 2d6 dmg every round. Any creature that is within this range may attempt to stabilise their body with a DC 25 will save and avoid this damage. Casting an arcane spell within this range requires an DC 30 + spell lvl * 2 concentration check, as well as a DC 30 spellcraft check. 
