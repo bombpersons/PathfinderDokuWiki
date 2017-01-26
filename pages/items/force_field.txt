@@ -1,9 +1,14 @@
 ====== Force Field ======
 Projects a protective barrier around the wearer. It will absorb HP damage and recharge. If its hitpoints are reduced to 0, the barrier will not recharge naturally until 24 hours have past. 
 
-===== Lesser Force Field =====
+===== Mk I Force Field =====
 **HP** 10, **Fast Heal** 2
 
-===== Force Field =====
+===== Mk II Force Field =====
 **HP** 20, **Fast Heal** 4
 
+===== Mk III Force Field =====
+**HP** 40, **Fast Heal** 8
+
+===== Mk IV Force Field =====
+**HP** 80, **Fast Heal** 16

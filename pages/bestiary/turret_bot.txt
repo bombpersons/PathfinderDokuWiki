@@ -20,8 +20,6 @@ N Medium Construct (robot)
 
 **Melee** 1 slams +5 (1d4+1)
 
-**Ranged** obliteration laser +6 (10d6)
-
 ==== Statistics ====
 **Str** 12, **Dex** 3, **Con** -, **Int** -, **Wis** 18, **Cha** 1
 
@@ -39,3 +37,7 @@ The Turret Bot was designed to stay in a single location and thus moving is part
 
 === Obliteration Laser ===
 The turret can take 2 full rounds and fire its Obliteration Laser. The first round the turret cannot move and makes loud noise and its barrel glows red hot. If the turret is unnoticed, a DC 15 perception check will reveal its location. The second round, the laser will fire.
+
+The laser will fire in the direction the turret was aiming. Any creatures along the path of the laser can make DC 20 reflex saves to avoid the laser and move to the nearest safe square. The laser will remain for two full rounds, each round the turret can rotate the laser by 45 degrees.
+
+If hit by the laser, the target takes 10d6 damage.
