@@ -1,0 +1,9 @@
+====== Force Field ======
+Projects a protective barrier around the wearer. It will absorb HP damage and recharge. If its hitpoints are reduced to 0, the barrier will not recharge naturally until 24 hours have past. 
+
+===== Lesser Force Field =====
+**HP** 10, **Fast Heal** 2
+
+===== Force Field =====
+**HP** 20, **Fast Heal** 4
+

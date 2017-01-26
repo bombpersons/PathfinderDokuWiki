@@ -4,7 +4,10 @@ The forgotten corri
 ===== Dungeon =====
 
 ==== Treasure ====
-
+  - [[:Items:Rythmophone]]
+  - Various [[:Items:Laser Gun]]s
+  - [[:Items:Force Field]]
+  - 
 ==== Wildlife ====
   * [[:Bestiary:Hoover Bot]]
   * [[:Bestiary:Turret Bot]]
