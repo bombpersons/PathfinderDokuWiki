@@ -1,5 +1,5 @@
-===== Kirju Plini Soldier (CR ?) =====
-**XP ?**
+===== Kirju Plini Soldier (CR 6) =====
+**XP 2,400**
 
 N Medium Construct (kirju) (lvl 6 fighter)
 
@@ -17,19 +17,17 @@ N Medium Construct (kirju) (lvl 6 fighter)
 ==== Offense ====
 **Speed** 5ft
 
-**Melee** TODO
+**Melee** [[:Items:Stun Weapon|Stun Baton]] +11, +6 (1d8 electric, 1d6 bludgeoning)
 
-**Ranged** [[:Items:Laser Weapon|Laser Rifle]] +9 (2d6), +4 (2d6)
+**Ranged** [[:Items:Laser Weapon|Laser Rifle]] +9, +4 (2d6)
 
 ==== Statistics ====
 **Str** 5, **Dex** 16, **Con** -, **Int** 20, **Wis** 8, **Cha** 11
 
 **Base Atk** +6/+1; **CMB** +3; **CMD** +6
 
-**Feats** Alertness
-
 **Skills** Perception +5
 
-**Languages** None
+**Languages** Kirju
 
 ==== Special Abilities ====
