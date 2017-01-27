@@ -1,0 +1,18 @@
+====== Laser Weapons ======
+A laser pistol emits a beam of intensely focused light capable of burning anything it strikes. A laser attack can pass through force fields and force effects, such as a wall of force, to strike a foe beyond without damaging that field. Objects like glass or other transparent barriers do not provide cover from lasers—but unlike force barriers, a transparent physical barrier still takes damage from a laser passing through it. Invisible creatures are immune to damage caused by a laser weapon. Fog, smoke, and other clouds provide cover in addition to concealment from laser attacks. Darkness (magical or otherwise) has no effect on lasers other than providing concealment, and though a laser consists of highly focused light, it does not provide any illumination.
+
+===== Laser Pistol =====
+**Type** One-handed
+**Dmg (S)** 1d6 Fire, **Dmg (M)** 1d8 Fire
+**Critical** x2
+**Range** 50ft
+**Capacity** 10
+**Special** Touch 
+
+===== Lase Rifle =====
+**Type** Two-handed
+**Dmg (S)** 1d10 Fire, **Dmg (M)** 2d6 Fire
+**Critical** x2
+**Range** 150ft
+**Capacity** 20
+**Special** Touch 

@@ -1,43 +1,35 @@
 ===== Kirju Plini Soldier (CR ?) =====
 **XP ?**
 
-N Medium Construct (robot)
+N Medium Construct (kirju) (lvl 6 fighter)
 
-**Init** -4; **Senses** Darkvision 60ft., Low-light vision; Perception +8
+**Init** +3; **Senses** Darkvision 60ft., Low-light vision; Perception +5
+
 ==== Defense ====
-**AC** 10, touch 6, flat-footed 10 (-4 dex, +4 natural)
+**AC** 13, touch 13, flat-footed 10 (+3 dex)
 
-**HP** 32 (4d6+20), **Force Field** 20 (fast healing 4)
+**HP** 50 (6d10+20), **Mk II Force Field** 20 (fast healing 4)
 
-**Fort** +0, **Ref** -4, **Will** +4
+**Fort** +5, **Ref** +5, **Will** +1
 
-**Defensive Abilities** all-around vision **Immune** construct traits
-
-**Weaknesses** vulnerable to critical hits (DC 15 Fort save or stunned for 1 round), vulnerable to electricity (150% dmg)
+**Immune** construct traits
 
 ==== Offense ====
 **Speed** 5ft
 
-**Melee** 1 slams +5 (1d4+1)
+**Melee** TODO
+
+**Ranged** [[:Items:Laser Weapon|Laser Rifle]] +9 (2d6), +4 (2d6)
 
 ==== Statistics ====
-**Str** 12, **Dex** 3, **Con** -, **Int** -, **Wis** 18, **Cha** 1
+**Str** 5, **Dex** 16, **Con** -, **Int** 20, **Wis** 8, **Cha** 11
 
-**Base Atk** +4; **CMB** +5; **CMD** 1
+**Base Atk** +6/+1; **CMB** +3; **CMD** +6
 
 **Feats** Alertness
 
-**Skills** Perception +8
+**Skills** Perception +5
 
 **Languages** None
 
 ==== Special Abilities ====
-=== Staggered ===
-The Turret Bot was designed to stay in a single location and thus moving is particularly slow.
-
-=== Obliteration Laser ===
-The turret can take 2 full rounds and fire its Obliteration Laser. The first round the turret cannot move and makes loud noise and its barrel glows red hot. If the turret is unnoticed, a DC 15 perception check will reveal its location. The second round, the laser will fire.
-
-The laser will fire in the direction the turret was aiming. Any creatures along the path of the laser can make DC 20 reflex saves to avoid the laser and move to the nearest safe square. The laser will remain for two full rounds, each round the turret can rotate the laser by 45 degrees.
-
-If hit by the laser, the target takes 10d6 damage.
