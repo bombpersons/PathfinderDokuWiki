@@ -17,7 +17,7 @@ N Medium Construct (kirju) (lvl 6 fighter)
 ==== Offense ====
 **Speed** 5ft
 
-**Melee** [[:Items:Stun Weapon|Stun Baton]] +11, +6 (1d8 electric, 1d6 bludgeoning)
+**Melee** [[:Items:Stun Weapon|Stun Baton]] +11, +6 (1d8 electric, 1d6 bludgeoning) (10ft reach)
 
 **Ranged** [[:Items:Laser Weapon|Laser Rifle]] +9, +4 (2d6)
 

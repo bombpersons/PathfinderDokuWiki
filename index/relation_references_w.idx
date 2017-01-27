@@ -196,3 +196,5 @@ busica
 servica
 items:laser_weapon
 items:stun_weapon
+bestiary:robot:hoover_bot
+bestiary:robot:turret_bot

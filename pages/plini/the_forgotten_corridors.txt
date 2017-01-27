@@ -7,7 +7,6 @@ The forgotten corri
   - [[:Items:Rythmophone]]
   - Various [[:Items:Laser Gun]]s
   - [[:Items:Force Field]]
-  - 
 ==== Wildlife ====
-  * [[:Bestiary:Hoover Bot]]
-  * [[:Bestiary:Turret Bot]]
+  * [[:Bestiary:Robot:Hoover Bot]]
+  * [[:Bestiary:Robot:Turret Bot]]
