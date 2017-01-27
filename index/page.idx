@@ -63,3 +63,6 @@ bestiary:hoover_bot
 bestiary:turret_bot
 items:force_field
 items:rythmophone
+the_rhythm
+bestiary:robot:hoover_bot
+bestiary:robot:turret_bot

@@ -33,3 +33,9 @@
 1485448530	217.113.163.163	E	bestiary:turret_bot	bombpersons	[Offense] 		-41
 1485448552	217.113.163.163	E	bestiary:turret_bot	bombpersons	[Special Abilities] 		52
 1485468044	94.5.159.62	C	items:rythmophone	bombpersons	created		1226
+1485471736	94.5.159.62	C	the_rhythm	bombpersons	created		1811
+1485472920	94.5.159.62	E	kirju:department_of_plini	bombpersons	[Department of Plini] 		0
+1485473217	94.5.159.62	D	bestiary:hoover_bot	bombpersons	removed		-979
+1485473237	94.5.159.62	C	bestiary:robot:hoover_bot	bombpersons	created		979
+1485473501	94.5.159.62	D	bestiary:turret_bot	bombpersons	removed		-1552
+1485473515	94.5.159.62	C	bestiary:robot:turret_bot	bombpersons	created		1552
