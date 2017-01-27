@@ -1,0 +1,43 @@
+===== Kirju Plini Soldier (CR ?) =====
+**XP ?**
+
+N Medium Construct (robot)
+
+**Init** -4; **Senses** Darkvision 60ft., Low-light vision; Perception +8
+==== Defense ====
+**AC** 10, touch 6, flat-footed 10 (-4 dex, +4 natural)
+
+**HP** 32 (4d6+20), **Force Field** 20 (fast healing 4)
+
+**Fort** +0, **Ref** -4, **Will** +4
+
+**Defensive Abilities** all-around vision **Immune** construct traits
+
+**Weaknesses** vulnerable to critical hits (DC 15 Fort save or stunned for 1 round), vulnerable to electricity (150% dmg)
+
+==== Offense ====
+**Speed** 5ft
+
+**Melee** 1 slams +5 (1d4+1)
+
+==== Statistics ====
+**Str** 12, **Dex** 3, **Con** -, **Int** -, **Wis** 18, **Cha** 1
+
+**Base Atk** +4; **CMB** +5; **CMD** 1
+
+**Feats** Alertness
+
+**Skills** Perception +8
+
+**Languages** None
+
+==== Special Abilities ====
+=== Staggered ===
+The Turret Bot was designed to stay in a single location and thus moving is particularly slow.
+
+=== Obliteration Laser ===
+The turret can take 2 full rounds and fire its Obliteration Laser. The first round the turret cannot move and makes loud noise and its barrel glows red hot. If the turret is unnoticed, a DC 15 perception check will reveal its location. The second round, the laser will fire.
+
+The laser will fire in the direction the turret was aiming. Any creatures along the path of the laser can make DC 20 reflex saves to avoid the laser and move to the nearest safe square. The laser will remain for two full rounds, each round the turret can rotate the laser by 45 degrees.
+
+If hit by the laser, the target takes 10d6 damage.
