@@ -44,7 +44,7 @@ Kirju
 
 ==== Offence Racial Traits ====
 === Telekinesis ===
-Kirju can attune themselves to allow them to control a weapon or item via telekinesis. After 3d6 days of attuning, they can wield any weapon at 5ft reach at lvl1, 10ft reach at lvl 8 and 15ft reach at lvl 15. They use their Intelligence in place of strength when using a weapon in this way. 
+Kirju can attune themselves to allow them to control a weapon or item via telekinesis. After 3d6 days of attuning, they can wield any weapon at 5ft reach at lvl1, 10ft reach at lvl 5 and 15ft reach at lvl 10. They use their Intelligence in place of strength when using a weapon in this way. 
 
 If a Kirju brain orb is moved into another doll body, their dexterity is reduced to 0. They regain 1d3 dexterity every week of practice.
 
