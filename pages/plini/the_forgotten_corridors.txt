@@ -7,6 +7,16 @@ The forgotten corri
   - [[:Items:Rythmophone]]
   - Various [[:Items:Laser Gun]]s
   - [[:Items:Force Field]]
+
+
 ==== Wildlife ====
   * [[:Bestiary:Robot:Hoover Bot]]
   * [[:Bestiary:Robot:Turret Bot]]
+  * [[:Bestiary:Robot:Nanite Ooze]]
+
+^ d%     ^ Encounter                    ^
+| 1-30   | 2d3 Hoover Bot               |
+| 30-60  | 2d2 Hoover Bot, 1 Turret Bot |
+| 60-80  | 3d2 Nanite Ooze              |
+| 80-90  | 2 Turret Bots                |
+| 90-100 | 3d6 Nanite Ooze              |

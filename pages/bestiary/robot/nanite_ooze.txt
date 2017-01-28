@@ -1,0 +1,36 @@
+===== Small Nanite Ooze (CR 4) =====
+**XP 1,200**
+
+N Small Ooze (robot)
+
+**Init** -4; **Senses** Blindsense 120ft.; Perception -5
+==== Defense ====
+**AC** 11, touch 11, flat-footed 10 (+1 dex)
+
+**HP** 54 (6d8+30)
+
+**Fort** +0, **Ref** -4, **Will** +4
+
+**Immune** ooze traits
+
+**Weaknesses** vulnerable to electricity (150% dmg)
+
+==== Offense ====
+**Speed** 10ft, climb 10ft
+
+**Melee** slam +10 (1d4+4 + 1d4 electric)
+
+**Special Attacks** constrict (1d4+4 + 1d4 electric)
+
+==== Statistics ====
+**Str** 18, **Dex** 12, **Con** 20, **Int** -, **Wis** 1, **Cha** 1
+
+**Base Atk** +6; **CMB** +9; **CMD** +10
+
+**Skills** Perception -5
+
+**Languages** None
+
+==== Special Abilities ====
+=== Nanites ===
+A metal weapon that strikes a nanite ooze will potentially be eaten away by the nanites. If the ooze is attacked with a metal weapon, a DC 16 reflex save will prevent 1d6 damage to the weapon. If the weapon is in contact with the ooze for a full round it takes 10 + 1/2 HD + con modifier damage.
