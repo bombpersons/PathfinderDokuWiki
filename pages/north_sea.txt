@@ -20,6 +20,6 @@ Encounter chance: d% < 50
 |40-50      |1d6 Sea Cats                                               |
 |50-60      |1d6 Ceratioidi                                             |
 |60-70      |1d2 Dragonfly, Nymph (Giant)                               |
-|70-100     |Inilth                                                     |
+|70-100     |[[:Inilth]]                                                |
 
 Brine Dragons make their nests here.
