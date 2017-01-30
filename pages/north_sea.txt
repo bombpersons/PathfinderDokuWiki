@@ -1,6 +1,13 @@
 ====== Nammachian North Sea ======
 The north of [[Nammach]] is home to a vast archipelago of small jungle islands. [[Nammach:Anfan]] is the most populated of these, but there are many other small villages and towns located on them. Many of them are also home to [[Gnoll]] tribes. [[The Knife on the Sea]] is located in the far north.
 
+===== Inilth  =====
+Inlith is a Brine Dragon Wyrm (1200 year old). He was magically aged by a wild magic surge and thus is immature for his age. He is rash and acts on his impulses. 
+
+Whilst young, Inlith ruled over a small pod of dolphins. Pathetic even for a young brine dragon. After being aged, he grew much more powerful and saw this as his chance to finally proof himself.
+
+He has take control of the local grindylow clans, as well as many other intelligent deep sea creatures. His plan is to subjugate the local [[Grippli]] population, boiling towns alive as he travels to [[Anfan]]. [[Tregar]] has already been destroyed.
+
 ===== Encounters =====
 ==== Inner Island Waters ====
 Encounter chance: d% < 30
@@ -19,6 +26,6 @@ Encounter chance: d% < 50
 |40-50      |1d6 Sea Cats                                               |
 |50-60      |1d6 Ceratioidi                                             |
 |60-70      |1d2 Dragonfly, Nymph (Giant)                               |
-|70-100     |1 Brine Dragon Wyrm                                        |
+|70-100     |Inilth                                                     |
 
 Brine Dragons make their nests here.
