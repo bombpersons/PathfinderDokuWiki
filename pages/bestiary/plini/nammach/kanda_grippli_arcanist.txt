@@ -1,0 +1,58 @@
+===== Kanda Grippli Arcanist (CR 5) =====
+**XP 2,400**
+
+N Small Humanoid Grippli (lvl 5 arcanist)
+
+**Init** +3; **Senses** Darkvision 60ft., Low-light vision; Perception +7
+
+==== Defense ====
+**AC** 12, touch 12, flat-footed 10 (+2 dex)
+
+**HP** 50 (5d6+5)
+
+**Fort** +2, **Ref** +3, **Will** +6
+
+==== Offense ====
+**Speed** 30ft
+
+**Melee** Dagger +0 (1d3-1)
+
+==== Arcanist Spells ====
+CL 5 Concentration +8
+
+** Level 0 () DC 13 ** Acid Splash, Bleed, Dancing Lights, Drench, Light, Mending
+
+** Level 1 (5) DC 14 ** Air Bubble, Ear-Piercing Scream, Mage Armor, Magic Missile, Polypurpose Panacea
+
+** Level 2 (4) DC 15 ** Acid Arrow, Cats Grace, Fire Sneeze, Glitterdust
+
+==== Statistics ====
+**Str** 8, **Dex** 15, **Con** 13, **Int** 15, **Wis** 15, **Cha** 11
+
+**Base Atk** +2; **CMB** +1; **CMD** +4
+
+**Skills** Perception +7
+
+**Languages** Grippli
+
+==== Special Abilities ====
+=== Arcane Reservoir ===
+An arcanist has an innate pool of magical energy that she can draw upon to fuel her arcanist exploits and enhance her spells. The arcanists arcane reservoir can hold a maximum amount of magical energy equal to 3 + the arcanists level. Each day, when preparing spells, the arcanists arcane reservoir fills with raw magical energy, gaining a number of points equal to 3 + 1/2 her arcanist level. Any points she had from the previous day are lost. She can also regain these points through the consume spells class feature and some arcanist exploits. The arcane reservoir can never hold more points than the maximum amount noted above; points gained in excess of this total are lost. 
+
+Points from the arcanist reservoir are used to fuel many of the arcanists powers. In addition, the arcanist can expend 1 point from her arcane reservoir as a free action whenever she casts an arcanist spell. If she does, she can choose to increase the caster level by 1 or increase the spells DC by 1. She can expend no more than 1 point from her reservoir on a given spell in this way.
+
+=== Arcanist Exploits ===
+By bending and sometimes even breaking the rules of magic, the arcanist learns to exploit gaps and exceptions in the laws of magic. Some of these exploits allow her to break down various forms of magic, adding their essence to her arcane reservoir. At 1st level and every 2 levels thereafter, the arcanist learns a new arcane exploit selected from the following list. An arcanist exploit cannot be selected more than once. Once an arcanist exploit has been selected, it cannot be changed. Most arcanist exploits require the arcanist to expend points from her arcane reservoir to function. Unless otherwise noted, the saving throw DC for an arcanist exploit is equal to 10 + 1/2 the arcanists level + the arcanists Charisma modifier. 
+
+=== Consume Spells ===
+At 1st level, an arcanist can expend an available arcanist spell slot as a move action, making it unavailable for the rest of the day, just as if she had used it to cast a spell. Doing this adds a number of points to her arcane reservoir equal to the level of the spell slot consumed. She cannot consume cantrips (0 level spells) in this way. Points gained in excess of the reservoirs maximum are lost.
+
+==== Feats ====
+=== Acid Jet (Su) ===
+The arcanist can unleash a jet of acid by expending 1 point from her arcane reservoir and making a ranged touch attack against any one target within 30 feet. If the attack hits, it deals 1d6 points of acid damage + the arcanist's Charisma modifier, plus an additional 1d6 points of acid damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also sickened for 1d4 rounds. It can attempt a Fortitude saving throw to negate the sickened condition.
+
+=== Energy Shield (Su) ===
+The arcanist can protect herself from energy damage as a standard action by expending 1 point from her arcane reservoir. She must pick one energy type and gains resistance 10 against that energy type for 1 minute per arcanist level. This protection increases by 5 for every 5 levels the arcanist possesses (up to a maximum of 30 at 20th level).
+
+=== Spell Resistance (Su) ===
+The arcanist can grant herself spell resistance for a number of rounds equal to her Charisma modifier (minimum 1) as a standard action by expending 1 point from her arcane reservoir. This spell resistance is equal to 6 + her arcanist level and cannot be suppressed, but it can be ended as a free action on her turn.
