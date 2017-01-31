@@ -1,5 +1,7 @@
 ====== Tregar ======
-A very small town. Used to be inhabited by only a single isolationist [:Grippli]] family, but recently a lot of [[Knife Hunter]]s have been sailing to the place in hope of finding [[The Knife on The Sea]]. There are no trees and little fauna on the island, the temperature is very hot and it rains much less than other areas of [[:Nammach]]. There is also a very strong wind here.
+A small town sprung up here after [[:Iseabal Kanda]]s geas orders to look for [[The Knife on The Sea]]. The town was a convenient place to stay whilst searching. The dragon [[:Inilth]] rules this place.
+
+The island has no trees and little fauna. It is significantly hotter and dryer here than islands closer to the mainland. It is also very windy here. 
 
 Population: 50-100
 
@@ -10,35 +12,11 @@ The original family that lived on the island live in a hut on the surface of the
 
 He arrived at Tregar finding no-one there. They built a cage in a cavern underneath their house in which he would sleep. They had a child 15 years after their exile. 
 
-A DC 20 perception check whilst at the cave at night will reveal that the son is atop the cave with a pickaxe swinging at the ground. The son is attempting to destabilize the cave roof to cause a cave in, preventing the hunters from living there.
+They continue to live on top of the island despite [[:Inilth]]s presence. [[:Inilth]] hasn't noticed them.
 
 ===== Town =====
-Most of the "town" that has been built up within the last 3 months or so has been done so by [[Knife Hunters]]. They have used a sea cave that is located beneath the cliffy northern side of the island. It helps protect them from the temperature and gives them shelter from the winds. 
+The town the hunters had created within a sea cave on the island has been re-purposed by [[:Inilth]] as a prison. Townspeople are prevented from leaving the cave by [[:Inilth]] as he destroys any ship coming to the island. 
 
-==== The Hunters Inn ====
-An Inn created by the group known as [[The Hunters of the Knife]]. They give free board to anyone who wishes to help them. 
+A standing guard of [[:Grindylow]] stay near the entrance of the cave. They deliver food to the captives every now and then. 
 
-==== Hunters of the Knife ====
-
-=== Searching Procedure ===
-  - Leave a log and description of all items on the ship before leaving.
-  - Travel together for the duration, with at least 4 people awake at all times. 
-  - Log the direction traveled and duration whenever an event occurs.
-
-  - When returning, check every item on the ship against the list written initially. 
-  - Record the direction and duration of the journey on the map.
-
-=== Captain (Eacharn)===
-A very experienced sailor and warrior. He is searching by his own choice.
-
-== Past ==
-Been looking for the knife off and on for 10 years. Lived in [[:Nammach:Caldy]] during that period, but previous to that lived in Pontow. With the recent influx of hunters, he moved permanently to Tregar to use and help the extra hunters there. 
-
-His father went out looking for the knife when he was a child and never returned (was killed by a brine dragon after finding the knife multiple times). This inspired him to try and find the knife and perhaps find his father. 
-
-== Theories ==
-Has been searching a long time and has collected a great many notes and drawings. 
-
-He suspects that sometimes when ships come back from hunting, their supplies and or ships are different. 
-He is suspicious that they are only able to see the knife if the waters are too dangerous to get near (and this location seems to be the same every time). 
-He is suspicious that when they search that same spot and don't find anything they are always gone for multiple weeks, even if they go out meaning to come back before that.
+Townspeople with geas's on them have been collapsing, unable to move.
