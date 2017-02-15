@@ -1,6 +1,8 @@
 ====== Caldy ======
 The furthest settlement from the mainland that was founded before the exile. The town of Caldy is on the west side of the island. The forest on the east side is used for military training by the academy.
 
+Most of the town has been destroyed by [[:Inilth]].
+
 ===== The Academy =====
 The academy is used as a place to train advanced warfare techniques to students with a lot of potential. They often conduct training excersizes in the forest.
 
