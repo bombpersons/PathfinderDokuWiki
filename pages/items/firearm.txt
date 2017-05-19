@@ -1,0 +1,10 @@
+====== Firearms ======
+
+
+===== Modern =====
+==== One Handed ====
+^ Name          ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets ^ Special      ^
+| Pistol        | 500gp    | 3d6    | 3d8    | x4       | 1       | 17       | 100ft | 4 lbs  | BP   | 9mm     |              |
+| Revolver      | 900gp    | 3d8    | 3d10   | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 11.5mm  |              |
+| Handcannon    | 1500gp   | 6d6    | 6d8    | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 13mm    |              |
+| Uzi           | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 40ft  | 6 lbs  | BP   | 9mm     | Spray (10ft) |
