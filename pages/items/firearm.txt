@@ -3,8 +3,20 @@
 
 ===== Modern =====
 ==== One Handed ====
-^ Name          ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets ^ Special      ^
-| Pistol        | 500gp    | 3d6    | 3d8    | x4       | 1       | 17       | 100ft | 4 lbs  | BP   | 9mm     |              |
-| Revolver      | 900gp    | 3d8    | 3d10   | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 11.5mm  |              |
-| Handcannon    | 1500gp   | 6d6    | 6d8    | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 13mm    |              |
-| Uzi           | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 40ft  | 6 lbs  | BP   | 9mm     | Spray (10ft) |
+^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
+| Pistol          | 500gp    | 3d6    | 3d8    | x4       | 1       | 17       | 100ft | 4 lbs  | BP   | 9mm        |              |
+| Revolver        | 900gp    | 3d8    | 3d10   | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 11.5mm     |              |
+| Handcannon      | 1500gp   | 6d6    | 6d8    | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 13mm       |              |
+| Uzi             | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 40ft  | 6 lbs  | BP   | 9mm        | Spray (10ft) |
+
+==== Two Handed ====
+^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
+| Hunting Rifle   | 1000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 200ft | 9lbs   | BP   | 7.5mmx60mm |              |
+| Sniper Rifle    | 9000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 400ft | 9lbs   | BP   | 7.5mmx60mm |              |
+| Assault Rifle   | 5000gp   | 6d6    | 6d8    | x4       | 1       | 50       | 100ft | 9lbs   | BP   | 7.5mmx60mm | Spray (10ft) |
+| Sub-machine Gun | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 80ft  | 8lbs   | BP   | 9mm        | Spray (10ft) |
+| Shotgun         | 500gp    | 6d8    | 6d10   | x4       | 1       | 8        | 20ft  | 9lbs   | BP   | 14mm       |              |
+
+==== Mounted ====
+^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
+| 
