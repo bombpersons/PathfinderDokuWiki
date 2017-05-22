@@ -3,20 +3,33 @@
 
 ===== Modern =====
 ==== One Handed ====
-^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
-| Pistol          | 500gp    | 3d6    | 3d8    | x4       | 1       | 17       | 100ft | 4 lbs  | BP   | 9mm        |              |
-| Revolver        | 900gp    | 3d8    | 3d10   | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 11.5mm     |              |
-| Handcannon      | 1500gp   | 6d6    | 6d8    | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 13mm       |              |
-| Uzi             | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 40ft  | 6 lbs  | BP   | 9mm        | Spray (10ft) |
+^ Name             ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
+| Pistol           | 500gp    | 3d6    | 3d8    | x4       | 1       | 17       | 100ft | 4 lbs  | BP   | 9mm        |              |
+| Revolver         | 900gp    | 3d8    | 3d10   | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 11.5mm     |              |
+| Handcannon       | 1500gp   | 6d6    | 6d8    | x4       | 1       | 7        | 100ft | 4 lbs  | BP   | 13mm       |              |
+| Uzi              | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 40ft  | 6 lbs  | BP   | 9mm        | Spray (10ft) |
 
 ==== Two Handed ====
-^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
-| Hunting Rifle   | 1000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 200ft | 9lbs   | BP   | 7.5mmx60mm |              |
-| Sniper Rifle    | 9000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 400ft | 9lbs   | BP   | 7.5mmx60mm |              |
-| Assault Rifle   | 5000gp   | 6d6    | 6d8    | x4       | 1       | 50       | 100ft | 9lbs   | BP   | 7.5mmx60mm | Spray (10ft) |
-| Sub-machine Gun | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 80ft  | 8lbs   | BP   | 9mm        | Spray (10ft) |
-| Shotgun         | 500gp    | 6d8    | 6d10   | x4       | 1       | 8        | 20ft  | 9lbs   | BP   | 14mm       |              |
+^ Name             ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
+| Hunting Rifle    | 1000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 200ft | 9lbs   | BP   | 7.5mmx60mm |              |
+| Sniper Rifle     | 9000gp   | 6d6    | 6d8    | x4       | 1       | 5        | 400ft | 9lbs   | BP   | 7.5mmx60mm |              |
+| Assault Rifle    | 5000gp   | 6d6    | 6d8    | x4       | 1       | 50       | 100ft | 9lbs   | BP   | 7.5mmx60mm | Spray (10ft) |
+| Sub-machine Gun  | 1000gp   | 3d6    | 3d8    | x4       | 1       | 50       | 80ft  | 8lbs   | BP   | 9mm        | Spray (10ft) |
+| Shotgun          | 500gp    | 6d8    | 6d10   | x4       | 1       | 8        | 20ft  | 9lbs   | BP   | 14mm       |              |
 
 ==== Mounted ====
-^ Name            ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range ^ Weight ^ Type ^ Bullets    ^ Special      ^
-| 
+^ Name             ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range  ^ Weight    ^ Type ^ Bullets    ^ Special        ^
+| Machine Gun      | 10000gp  | 10d6   | 10d8   | x4       | 1       | 100      | 60ft   | 18lbs     | BP   | 15mm       | Spray (20ft)   |
+| Anti-Tank Rifle  | 20000gp  | 20d10  | 20d12  | x4       | 1       | 8        | 200ft  | 18lbs     | BP   | 20mmx60mm  |                |
+| Artillery Cannon | 40000gp  | 20d10  | 20d12  | x4       | 1       | 1        | 5000ft | 16,000lbs | BP   | 130mm      | Splash (150ft) |
+| AA Flak          | 40000gp  | 10d6   | 10d8   | x2       | 1       | 5        | 5000ft | 16,000lbs | BP   | 130mm      | Splash (150ft) | 
+
+==== Special ====
+=== Spray ===
+The weapon can hit a cube with the dimensions specified. Each target within the cube makes a reflex save (DC 15), if successful they take half damage.
+
+=== Splash ===
+The weapon deals full damage to the square it hits. Anything else within the splash radius must make a reflex save (DC 20). Success results in 1/4 damage. Failure results in 1/2 damage.
+
+If the attack misses the targets touch AC (or AC 5 if you are targeting empty space), roll 1d8 to determine the direction the miss is in. The attack hits the square a number of sqaures in that direction equal to the range increments of the throw / attack.
+
