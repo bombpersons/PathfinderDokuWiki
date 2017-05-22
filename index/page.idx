@@ -81,3 +81,6 @@ vehicles:water:pinnace
 vehicles:water:galley
 vehicles:water:cargo_ship
 vehicles:water:dreadnought
+vehicles:air:fighter
+vehicles:air:bomber
+karfrawatch

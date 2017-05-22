@@ -1,0 +1,28 @@
+===== Fighter =====
+{{items:fighter.jpg}}
+
+Huge Air Vehicle
+
+**Squares** 25ft by 30ft, 10ft high
+
+==== Defense ====
+**AC** 8; **Hardness** 10
+
+**HP** 100
+
+**Base Save** +0
+
+==== Offense ====
+**Maximum Speed** 180ft **Acceleration** 30ft
+
+**Attack** 2 Machine Gun (at front and back), +10 (10d6/x2)
+
+**Attack** Ram 2d8
+
+**CMB** +2 **CMD** 12
+
+==== Statistics ====
+**Crew** 1 to drive + shoot, 1 to shoot back gun.
+
+==== Special Abilities ====
+**Carry Capacity** 100 lbs
