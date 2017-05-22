@@ -1,6 +1,28 @@
 ====== Vehicles ======
 http://paizo.com/pathfinderRPG/prd/ultimateCombat/ultimateCombatVehicles.html
 
+===== AC =====
+The AC listed under a vehicle is it's base armor AC. This is effectively its touch AC, if there is no driver use this AC. If there is a driver add the drivers wisdom modifier to the AC.
+
+===== Saving Throws =====
+A vehicle has a base saving throw modifier, add the drivers wisdom modifier and use this for fortitude and reflex saves. A vehicle is immune to any effects that require a will save.
+
+===== HP =====
+Vehicles have HP but no ability scores and thus cannot take any ability damage. When a vehicle reaches 1/2 hit points it gains the broken status. When a vehicle reaches 0 or fewer hit points, but has not yet reached negative HP equal to the number of squares of it's space, it is wrecked. When it goes further than this it is destroyed beyond repair.
+
+===== Attacks =====
+==== Overrun  ====
+If any part of the vehicle passes over a creature or object, you may have to roll a vehicular overrun combat maneuvers against it.
+
+The creature is less than 2 size categories smaller than the vehicle, and the creature is not confused, dazed, entangled, flat-footed, helpless, paralyzed, prone or stunned, it may avoid any damage if it chooses to do so without having to move.
+
+The creature can choose to make an attack of opportunity, if doing so cannot avoid the attack by moving out of the way and must risk taking damage.
+
+The vehicle rolls using it's base CMB + the wisdom modifier of the driver. If this value is higher than the targets CMD, it takes the vehicles ramming damage. If the value is more than 5 higher than the targets CMD, it takes twice the vehicles ramming damage.
+
+==== Ramming ====
+If any part of a vehicle enters the space of a creature or vehicle its size or larger, or a wall, etc, it makes a ramming maneuver against that creature or object. There is no check for this, the vehicle deals its ramming damage to the creature or object and the vehicle takes half of that damage.
+
 ===== Land =====
   * [[vehicles:land:Jeep]]
   * [[vehicles:land:Tank]]

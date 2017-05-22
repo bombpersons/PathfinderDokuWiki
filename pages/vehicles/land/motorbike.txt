@@ -1,0 +1,26 @@
+===== Motorbike =====
+{{items:motorbike.jpg}}
+
+Large Land Vehicle
+
+**Squares** 10ft by 5ft, 5ft high
+
+==== Defense ====
+**AC** 9; **Hardness** 5
+
+**HP** 200
+
+**Base Save** +3
+
+==== Offense ====
+**Maximum Speed** 250ft **Acceleration** 60ft
+
+**Attack** Ram 1d8
+
+**CMB** +1 **CMD** 11
+
+==== Statistics ====
+**Crew** 1 to drive
+
+==== Special Abilities ====
+**Carry Capacity** 600 lbs

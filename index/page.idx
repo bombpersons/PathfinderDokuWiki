@@ -74,3 +74,6 @@ bestiary:plini:nammach:kanda_grippli_arcanist
 conn_kazuki
 items:firearm
 items:vehicles
+vehicles:land:jeep
+vehicles:land:tank
+vehicles:land:motorbike

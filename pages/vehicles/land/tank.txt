@@ -1,0 +1,30 @@
+===== Tank =====
+{{items:tank.jpg}}
+
+Colossal Land Vehicle
+
+**Squares** 30ft by 20ft, 10ft high
+
+==== Defense ====
+**AC** 2; **Hardness** 10
+
+**HP** 2000
+
+**Base Save** +3
+
+**Special** Inside the tank the crew has improved cover giving them +8 AC and +4 on Reflex saving throws.
+
+==== Offense ====
+**Maximum Speed** 90ft **Acceleration** 30ft
+
+**Attack** 2x Machine Gun +10 (10d6/x4)(Spray 20ft)
+**Attack** Tank Gun +10 (20d010/x4)(Splash 20ft)
+**Attack** Ram 8d8
+
+**CMB** +8 **CMD** 18
+
+==== Statistics ====
+**Crew** 4 to drive, 3 to operate tank gun. 2 for machine guns. 1 passenger
+
+==== Special Abilities ====
+**Carry Capacity** 7,000 lbs

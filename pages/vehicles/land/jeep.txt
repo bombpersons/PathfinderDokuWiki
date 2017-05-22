@@ -1,0 +1,29 @@
+===== Jeep =====
+{{items:jeep.jpg}}
+
+Large Land Vehicle
+
+**Squares** 15ft by 10ft, 5ft high
+
+==== Defense ====
+**AC** 9; **Hardness** 5
+
+**HP** 500
+
+**Base Save** +3
+
+**Special** Inside the Jeep, the crew has partial cover giving them +2 AC and +1 on Reflex saving throws.
+
+==== Offense ====
+**Maximum Speed** 180ft **Acceleration** 60ft
+
+**Attack** Machine Gun +10 (10d6/x4)
+**Attack** Ram 1d8
+
+**CMB** +1 **CMD** 11
+
+==== Statistics ====
+**Crew** 1 to drive, 1 to operate gun. 2 more passenger seats.
+
+==== Special Abilities ====
+**Carry Capacity** 1,800 lbs
