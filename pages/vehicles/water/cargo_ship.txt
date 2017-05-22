@@ -1,0 +1,28 @@
+===== Cargo Ship =====
+{{items:cargo_ship.jpg}}
+
+Colossal Land Vehicle
+
+**Squares** 440ft by 55ft, 40ft high
+
+==== Defense ====
+**AC** 2; **Hardness** 10
+
+**HP** 5,000
+
+**Base Save** +0
+
+==== Offense ====
+**Maximum Speed** 180ft **Acceleration** 30ft
+
+**Attack** 2 AA Flak (at front and back), +10 (10d6/x2)
+
+**Attack** Ram 8d8
+
+**CMB** +8 **CMD** 18
+
+==== Statistics ====
+**Crew** 20 to drive, 1000 passengers.
+
+==== Special Abilities ====
+**Carry Capacity** 20,000,000 lbs

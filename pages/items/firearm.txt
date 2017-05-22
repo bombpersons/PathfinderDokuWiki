@@ -18,12 +18,13 @@
 | Shotgun          | 500gp    | 6d8    | 6d10   | x4       | 1       | 8        | 20ft  | 9lbs   | BP   | 14mm       |              |
 
 ==== Mounted ====
-^ Name             ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range  ^ Weight    ^ Type ^ Bullets    ^ Special        ^
-| Machine Gun      | 10000gp  | 10d6   | 10d8   | x4       | 1       | 100      | 60ft   | 18lbs     | BP   | 15mm       | Spray (20ft)   |
-| Anti-Tank Rifle  | 20000gp  | 20d10  | 20d12  | x4       | 1       | 8        | 200ft  | 18lbs     | BP   | 20mmx60mm  |                |
-| Tank Gun         | 20000gp  | 20d10  | 20d12  | x4       | 1       | 1        | 1000ft | 5,000lbs  | BP   | 80mm       | Splash (20ft)  | 
-| Artillery Cannon | 40000gp  | 20d10  | 20d12  | x4       | 1       | 1        | 5000ft | 16,000lbs | BP   | 130mm      | Splash (150ft) |
-| AA Flak          | 40000gp  | 10d6   | 10d8   | x2       | 1       | 5        | 5000ft | 16,000lbs | BP   | 130mm      | Splash (150ft) | 
+^ Name             ^ Cost     ^ Dmg(s) ^ Dmg(m) ^ Critical ^ Misfire ^ Capacity ^ Range  ^ Weight    ^ Type ^ Bullets     ^ Special        ^
+| Cannon           | 1000gp   | 6d6    | 6d8    | x2       | 1       | 1        | 60ft   | 1,000lbs  | B    | Cannon Ball |                |
+| Machine Gun      | 10000gp  | 10d6   | 10d8   | x4       | 1       | 100      | 60ft   | 18lbs     | BP   | 15mm        | Spray (20ft)   |
+| Anti-Tank Rifle  | 20000gp  | 20d10  | 20d12  | x4       | 1       | 8        | 200ft  | 18lbs     | BP   | 20mmx60mm   |                |
+| Tank Gun         | 20000gp  | 20d10  | 20d12  | x4       | 1       | 1        | 1000ft | 5,000lbs  | BP   | 80mm        | Splash (20ft)  | 
+| Artillery Cannon | 40000gp  | 20d10  | 20d12  | x4       | 1       | 1        | 5000ft | 16,000lbs | BP   | 130mm       | Splash (150ft) |
+| AA Flak          | 40000gp  | 10d6   | 10d8   | x2       | 1       | 5        | 5000ft | 16,000lbs | BP   | 130mm       | Splash (150ft) | 
 
 ==== Special ====
 === Spray ===

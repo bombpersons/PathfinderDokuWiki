@@ -1,0 +1,28 @@
+===== Galley =====
+{{items:galley.jpg}}
+
+Colossal Land Vehicle
+
+**Squares** 60ft by 25ft, 20ft high
+
+==== Defense ====
+**AC** 2; **Hardness** 5
+
+**HP** 1800
+
+**Base Save** +0
+
+==== Offense ====
+**Maximum Speed** 180ft **Acceleration** 30ft
+
+**Attack** 4 Cannons on each side, +10 (6d6/x2)
+
+**Attack** Ram 8d8
+
+**CMB** +8 **CMD** 18
+
+==== Statistics ====
+**Crew** 20 to drive (with wind), 160 to drive (with rows), 250 passengers.
+
+==== Special Abilities ====
+**Carry Capacity** 300,000 lbs

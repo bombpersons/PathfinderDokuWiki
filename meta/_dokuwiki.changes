@@ -30,3 +30,12 @@
 1495475265	94.5.165.203	E	items:firearm	bombpersons			141
 1495475411	94.5.165.203	C	vehicles:land:tank	bombpersons	created		642
 1495475651	94.5.165.203	C	vehicles:land:motorbike	bombpersons			380
+1495476465	94.5.165.203	C	vehicles:water:pinnace	bombpersons	created		395
+1495476479	94.5.165.203	E	vehicles:water:pinnace	bombpersons			3
+1495476493	94.5.165.203	E	items:vehicles	bombpersons	[Water] 		31
+1495476524	94.5.165.203	E	items:vehicles	bombpersons	[Water] 		-3
+1495477593	94.5.165.203	E	items:firearm	bombpersons	[Mounted] 		147
+1495477740	94.5.165.203	C	vehicles:water:galley	bombpersons	created		489
+1495477814	94.5.165.203	E	items:vehicles	bombpersons	[Water] 		0
+1495478510	94.5.165.203	C	vehicles:water:cargo_ship	bombpersons	created		474
+1495478978	94.5.165.203	C	vehicles:water:dreadnought	bombpersons	created		493

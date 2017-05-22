@@ -29,8 +29,9 @@ If any part of a vehicle enters the space of a creature or vehicle its size or l
   * [[vehicles:land:Motorbike]]
 
 ===== Water =====
-  * [[vehicles:water:Sail Boat]]
-  * [[vehicles:water:Cargo Boat]]
+  * [[vehicles:water:Pinnace]]
+  * [[vehicles:water:Galley]]
+  * [[vehicles:water:Cargo Ship]]
   * [[vehicles:water:Dreadnought]]
 
 ===== Air =====
