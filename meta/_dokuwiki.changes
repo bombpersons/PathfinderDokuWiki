@@ -1,5 +1,3 @@
-1485559015	90.196.209.47	E	plini:the_forgotten_corridors	bombpersons	[Wildlife] 		289
-1485559253	90.196.209.47	E	plini:the_forgotten_corridors	bombpersons	[Treasure] 		2
 1485795147	217.113.163.163	E	north_sea	bombpersons			631
 1485807000	2.217.190.13	E	north_sea	bombpersons	[Inilth] 		-630
 1485810342	2.217.190.13	C	inilth	bombpersons	created		848
@@ -20,3 +18,7 @@
 1487154314	217.113.163.163	E	nammach:caldy	bombpersons			53
 1495231496	2.221.62.193	C	items:firearm	bombpersons	created		704
 1495247052	2.221.62.193	E	items:firearm	bombpersons			1000
+1495462852	94.5.165.203	C	items:vehicles	bombpersons	created		150
+1495462956	94.5.165.203	E	items:vehicles	bombpersons			0
+1495464018	94.5.165.203	E	items:vehicles	bombpersons			-32
+1495464611	94.5.165.203	E	items:vehicles	bombpersons			203

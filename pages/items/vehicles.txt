@@ -1,0 +1,15 @@
+====== Vehicles ======
+
+===== Land =====
+  * [[vehicles:land:Jeep]]
+  * [[vehicles:land:Tank]]
+  * [[vehicles:land:Motorbike]]
+
+===== Water =====
+  * [[vehicles:water:Sail Boat]]
+  * [[vehicles:water:Cargo Boat]]
+  * [[vehicles:water:Dreadnought]]
+
+===== Air =====
+  * [[vehicles:air:Fighter]]
+  * [[vehicles:air:Bomber]]
