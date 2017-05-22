@@ -7,3 +7,15 @@ The capital is the city of [[Prongburn]] located in the central plains. Notable 
 
 ===== History =====
 TODO
+
+===== Lost Arc =====
+The **Lost Arc** refers to the northern arc of the island. Due to the opening of the cavern at [[karfrawatch:Gougewall]], the area is inhabited by vast amounts of undead.
+
+==== Encounter Tables ====
+Encounters will happen constantly, one after the other, with 100% chance of occurring.
+
+=== Near the wall ===
+^ d%      ^ Encounter                                   ^
+| 0-50    | 2d4 Corpse Orgy                             |
+| 50-70   | 2d100 Zombies                               |
+| 70-90   | 1 Intelligent + 2d40 Zombies                |
